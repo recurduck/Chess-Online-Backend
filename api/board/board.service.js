@@ -71,7 +71,7 @@ function _createBoard(player1, player2 = null) {
     if (player2) {
         board.blackPlayer.user = {
             _id: player2._id,
-            name: player2.username
+            username: player2.username
         }
     }
     return board
@@ -204,7 +204,7 @@ async function movePiece(gameId, fromCoord, toCoord, frontBoard) {
         let res = await _movePiece(gameId, fromCoord, toCoord)
         return res
     }
-    return getBoardById(gameId)
+    return game
 }
 
 async function _movePiece(gameId, fromCoord, toCoord) {
@@ -250,6 +250,9 @@ function _checkMate(game) {
     console.log(`CheckMate! ${(game.whiteTurn) ? 'Black' : 'White'} Win!`);
     game.gameBoard = _buildBoard()
     _cleanBoard(game.gameBoard)
+    let tempuser = {...game.blackPlayer.user}
+    game.blackPlayer.user ={...game.whitePlayer.user}
+    game.whitePlayer.user = {...tempuser}
     // updateGame(game._id, game)
     // }
 }

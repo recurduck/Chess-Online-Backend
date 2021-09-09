@@ -34,13 +34,10 @@ function connectSockets(http, session) {
             socket.roomId = roomId
             console.log('roomId', roomId);
         })
-        socket.on('update-wap', (wap) => {
-            socket.broadcast.to(socket.roomId).emit('update wap', wap)
+        socket.on('update-board', game => {
+            console.log('game updated from socket ');
+            socket.broadcast.to(socket.roomId).emit('update-board', game)
         })
-        socket.on('user-watch', userId => {
-            socket.join(userId)
-        })
-
     })
 }
 
@@ -48,12 +45,6 @@ function emitToAll({ type, data, room = null }) {
     if (room) gIo.to(room).emit(type, data)
     else gIo.emit(type, data)
 }
-
-// TODO: Need to test emitToUser feature
-function emitToUser({ type, data, userId }) {
-    gIo.to(userId).emit(type, data)
-}
-
 
 // Send to all sockets BUT not the current socket 
 function broadcast({ type, data, room = null }) {

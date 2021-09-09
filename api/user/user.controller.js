@@ -19,7 +19,7 @@ async function getUser(req, res) {
     try {
         const user = await userService.getById(req.params.id)
         req.session.user = user
-        console.log(req.session);
+        // console.log(req.session);
         res.send(user)
     } catch (err) {
         logger.error('Failed to get user', err)

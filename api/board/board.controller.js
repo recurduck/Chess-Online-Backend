@@ -56,7 +56,7 @@ async function updateBoard(req, res) {
             const user = await userService.getById(playerId)
             game.blackPlayer.user = { _id: user._id, username: user.username }
             user.curr_gameId = game._id
-            console.log(game)
+            // console.log(game)
             await userService.update(user)
             let updatedGame = await boardService.update(game) 
             res.send(updatedGame)
