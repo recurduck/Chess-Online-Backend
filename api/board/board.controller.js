@@ -27,8 +27,11 @@ async function getBoard(req, res) {
 
 async function addBoard(req, res) {
     try {
-        const user = req.body
-        const savedBoard = await boardService.add(user)
+        const shortUser = req.body
+        const savedBoard = await boardService.add(shortUser)
+        const user = await userService.getById(shortUser._id)
+        user.curr_gameId.push(savedBoard._id)
+        await userService.update(user)
         res.send(savedBoard)
     } catch (err) {
         logger.error('Failed to creat new board', err)
@@ -36,9 +39,20 @@ async function addBoard(req, res) {
     }
 }
 
+async function clearCurrGameFromUsers(gameId) {
+    const board = await boardService.getById(gameId)
+    if (board.blackPlayer.user)
+        await userService.clearCurrGame(board.blackPlayer.user._id, gameId)
+    if (board.whitePlayer.user)
+        await userService.clearCurrGame(board.whitePlayer.user._id, gameId)
+}
+
 async function deleteBoard(req, res) {
     try {
-        await boardService.remove(req.params.id)
+        const boardId = req.params.id
+        await clearCurrGameFromUsers(boardId)
+        await boardService.remove(boardId)
+        logger.debug('Deleted successfully')
         res.send({ msg: 'Deleted successfully' })
     } catch (err) {
         logger.error('Failed to delete board', err)
@@ -50,15 +64,15 @@ async function updateBoard(req, res) {
     try {
         const { boardId, playerId } = req.body
         const game = await boardService.getById(boardId)
-        if (game.blackPlayer.user)
+        if (game.blackPlayer.user) {
             console.log('No possible to join - Game Full ');
-        else {
+            res.send(game)
+        } else {
             const user = await userService.getById(playerId)
             game.blackPlayer.user = { _id: user._id, username: user.username }
-            user.curr_gameId = game._id
-            // console.log(game)
+            user.curr_gameId.push(game._id)
             await userService.update(user)
-            let updatedGame = await boardService.update(game) 
+            let updatedGame = await boardService.update(game)
             res.send(updatedGame)
         }
         // const savedBoard = await boardService.update(board)

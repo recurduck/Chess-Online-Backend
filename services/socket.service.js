@@ -38,6 +38,9 @@ function connectSockets(http, session) {
             console.log('game updated from socket ');
             socket.broadcast.to(socket.roomId).emit('update-board', game)
         })
+        socket.on('game-ended', bool => {
+            socket.broadcast.to(socket.roomId).emit('game-ended', bool)
+        })
     })
 }
 

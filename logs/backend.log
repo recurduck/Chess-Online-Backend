@@ -1,1070 +1,456 @@
-8/9/2021, 11:19:18 PM - INFO - Server is running on port: 3030 
-8/9/2021, 11:24:40 PM - INFO - Server is running on port: 3030 
-8/9/2021, 11:25:25 PM - INFO - Server is running on port: 3030 
-8/9/2021, 11:25:25 PM - INFO - Server is running on port: 3030 
-8/9/2021, 11:25:59 PM - INFO - Server is running on port: 3030 
-8/9/2021, 11:28:09 PM - INFO - Server is running on port: 3030 
-8/9/2021, 11:34:15 PM - INFO - Server is running on port: 3030 
-8/9/2021, 11:34:18 PM - INFO - Server is running on port: 3030 
-8/9/2021, 11:34:30 PM - INFO - Server is running on port: 3030 
-8/9/2021, 11:35:24 PM - INFO - Server is running on port: 3030 
-8/9/2021, 11:35:25 PM - INFO - Server is running on port: 3030 
-8/9/2021, 11:35:25 PM - INFO - Server is running on port: 3030 
-8/9/2021, 11:37:16 PM - INFO - Server is running on port: 3030 
-8/9/2021, 11:37:16 PM - INFO - Server is running on port: 3030 
-8/9/2021, 11:37:53 PM - INFO - Server is running on port: 3030 
-8/9/2021, 11:38:01 PM - INFO - Server is running on port: 3030 
-8/9/2021, 11:38:27 PM - INFO - Server is running on port: 3030 
-8/9/2021, 11:39:42 PM - INFO - Server is running on port: 3030 
-8/9/2021, 11:39:47 PM - INFO - Server is running on port: 3030 
-8/9/2021, 11:39:51 PM - INFO - Server is running on port: 3030 
-8/9/2021, 11:41:08 PM - INFO - Server is running on port: 3030 
-8/9/2021, 11:42:01 PM - INFO - Server is running on port: 3030 
-8/9/2021, 11:52:31 PM - INFO - Server is running on port: 3030 
-8/10/2021, 12:00:08 AM - INFO - Server is running on port: 3030 
-8/10/2021, 12:03:20 AM - INFO - Server is running on port: 3030 
-8/10/2021, 12:04:16 AM - INFO - Server is running on port: 3030 
-8/10/2021, 9:02:26 AM - INFO - Server is running on port: 3030 
-8/10/2021, 9:02:28 AM - INFO - Server is running on port: 3030 
-8/10/2021, 9:05:52 AM - INFO - Server is running on port: 3030 
-8/10/2021, 9:06:57 AM - INFO - Server is running on port: 3030 
-8/10/2021, 9:06:58 AM - INFO - Server is running on port: 3030 
-8/10/2021, 9:10:32 AM - INFO - Server is running on port: 3030 
-8/10/2021, 9:11:02 AM - INFO - Server is running on port: 3030 
-8/10/2021, 9:12:03 AM - INFO - Server is running on port: 3030 
-8/10/2021, 9:13:25 AM - INFO - Server is running on port: 3030 
-8/10/2021, 10:05:36 AM - INFO - Server is running on port: 3030 
-8/10/2021, 10:05:40 AM - INFO - Server is running on port: 3030 
-8/10/2021, 10:06:01 AM - INFO - Server is running on port: 3030 
-8/10/2021, 10:08:04 AM - INFO - Server is running on port: 3030 
-8/10/2021, 10:08:08 AM - INFO - Server is running on port: 3030 
-8/10/2021, 10:09:27 AM - INFO - Server is running on port: 3030 
-8/10/2021, 10:10:08 AM - INFO - Server is running on port: 3030 
-8/10/2021, 10:12:36 AM - INFO - Server is running on port: 3030 
-8/10/2021, 10:48:05 AM - INFO - Server is running on port: 3030 
-8/10/2021, 10:48:33 AM - INFO - Server is running on port: 3030 
-8/10/2021, 10:48:37 AM - INFO - Server is running on port: 3030 
-8/10/2021, 10:49:26 AM - INFO - Server is running on port: 3030 
-8/10/2021, 10:49:50 AM - INFO - Server is running on port: 3030 
-8/10/2021, 10:50:02 AM - INFO - Server is running on port: 3030 
-8/10/2021, 10:51:29 AM - INFO - Server is running on port: 3030 
-8/10/2021, 10:51:52 AM - INFO - Server is running on port: 3030 
-8/10/2021, 11:13:03 AM - INFO - Server is running on port: 3030 
-8/10/2021, 11:13:23 AM - INFO - Server is running on port: 3030 
-8/10/2021, 11:13:54 AM - INFO - Server is running on port: 3030 
-8/10/2021, 12:41:13 PM - INFO - Server is running on port: 3030 
-8/10/2021, 12:41:22 PM - INFO - Server is running on port: 3030 
-8/10/2021, 12:41:36 PM - INFO - Server is running on port: 3030 
-8/10/2021, 1:57:19 PM - INFO - Server is running on port: 3030 
-8/10/2021, 2:18:21 PM - INFO - Server is running on port: 3030 
-8/10/2021, 2:20:06 PM - INFO - Server is running on port: 3030 
-8/10/2021, 2:20:57 PM - INFO - Server is running on port: 3030 
-8/10/2021, 2:24:56 PM - INFO - Server is running on port: 3030 
-8/10/2021, 2:25:01 PM - ERROR - cannot add new Board | TypeError: Cannot read property '_id' of null (sid: AKiDLHbK-AiVlLgH-HvwlMQHKgE6odH9)
-8/10/2021, 2:25:01 PM - ERROR - Failed to creat new board | TypeError: Cannot read property '_id' of null (sid: AKiDLHbK-AiVlLgH-HvwlMQHKgE6odH9)
-8/10/2021, 2:26:18 PM - INFO - Server is running on port: 3030 
-8/10/2021, 2:26:26 PM - ERROR - cannot add new Board | TypeError: Cannot read property '_id' of null (sid: 1FmXA-8YCYYJ_ZNpioldpSyWM8mlaVyj)
-8/10/2021, 2:26:26 PM - ERROR - Failed to creat new board | TypeError: Cannot read property '_id' of null (sid: 1FmXA-8YCYYJ_ZNpioldpSyWM8mlaVyj)
-8/10/2021, 2:28:27 PM - ERROR - cannot add new Board | TypeError: Cannot read property '_id' of null (sid: 1FmXA-8YCYYJ_ZNpioldpSyWM8mlaVyj)
-8/10/2021, 2:28:27 PM - ERROR - Failed to creat new board | TypeError: Cannot read property '_id' of null (sid: 1FmXA-8YCYYJ_ZNpioldpSyWM8mlaVyj)
-8/10/2021, 2:30:10 PM - ERROR - cannot add new Board | TypeError: Cannot read property '_id' of null (sid: 1FmXA-8YCYYJ_ZNpioldpSyWM8mlaVyj)
-8/10/2021, 2:30:10 PM - ERROR - Failed to creat new board | TypeError: Cannot read property '_id' of null (sid: 1FmXA-8YCYYJ_ZNpioldpSyWM8mlaVyj)
-8/10/2021, 2:30:28 PM - ERROR - cannot add new Board | TypeError: Cannot read property '_id' of null (sid: 1FmXA-8YCYYJ_ZNpioldpSyWM8mlaVyj)
-8/10/2021, 2:30:28 PM - ERROR - Failed to creat new board | TypeError: Cannot read property '_id' of null (sid: 1FmXA-8YCYYJ_ZNpioldpSyWM8mlaVyj)
-8/10/2021, 2:31:33 PM - INFO - Server is running on port: 3030 
-8/10/2021, 2:32:44 PM - INFO - Server is running on port: 3030 
-8/10/2021, 2:33:13 PM - INFO - Server is running on port: 3030 
-8/10/2021, 2:34:04 PM - INFO - Server is running on port: 3030 
-8/10/2021, 2:34:11 PM - INFO - Server is running on port: 3030 
-8/10/2021, 2:34:22 PM - INFO - Server is running on port: 3030 
-8/10/2021, 4:29:06 PM - INFO - Server is running on port: 3030 
-8/10/2021, 4:31:49 PM - INFO - Server is running on port: 3030 
-8/10/2021, 4:33:43 PM - INFO - Server is running on port: 3030 
-8/10/2021, 4:51:02 PM - INFO - Server is running on port: 3030 
-8/10/2021, 4:57:00 PM - INFO - Server is running on port: 3030 
-8/10/2021, 4:59:10 PM - INFO - Server is running on port: 3030 
-8/10/2021, 4:59:16 PM - INFO - Server is running on port: 3030 
-8/10/2021, 5:11:19 PM - INFO - Server is running on port: 3030 
-8/10/2021, 5:13:18 PM - INFO - Server is running on port: 3030 
-8/10/2021, 5:14:45 PM - INFO - Server is running on port: 3030 
-8/10/2021, 5:14:50 PM - INFO - Server is running on port: 3030 
-8/10/2021, 5:14:52 PM - ERROR - cannot remove board iJZ5t | ReferenceError: err is not defined (sid: yYMyyqlg6KaAm-cPorpfnZBSrWlsWAny)
-8/10/2021, 5:14:52 PM - ERROR - Failed to delete board | ReferenceError: err is not defined (sid: yYMyyqlg6KaAm-cPorpfnZBSrWlsWAny)
-8/10/2021, 5:17:38 PM - ERROR - cannot remove board iJZ5t | ReferenceError: err is not defined (sid: yYMyyqlg6KaAm-cPorpfnZBSrWlsWAny)
-8/10/2021, 5:17:38 PM - ERROR - Failed to delete board | ReferenceError: err is not defined (sid: yYMyyqlg6KaAm-cPorpfnZBSrWlsWAny)
-8/10/2021, 9:25:09 PM - INFO - Server is running on port: 3030 
-8/10/2021, 9:26:54 PM - INFO - Server is running on port: 3030 
-8/10/2021, 9:32:56 PM - INFO - Server is running on port: 3030 
-8/10/2021, 9:37:54 PM - INFO - Server is running on port: 3030 
-8/10/2021, 9:37:56 PM - INFO - Server is running on port: 3030 
-8/10/2021, 9:38:00 PM - INFO - Server is running on port: 3030 
-8/10/2021, 9:38:11 PM - INFO - Server is running on port: 3030 
-8/10/2021, 10:17:49 PM - INFO - Server is running on port: 3030 
-8/10/2021, 10:28:35 PM - INFO - Server is running on port: 3030 
-8/10/2021, 10:40:17 PM - INFO - Server is running on port: 3030 
-8/10/2021, 10:40:51 PM - INFO - Server is running on port: 3030 
-8/10/2021, 10:41:28 PM - INFO - Server is running on port: 3030 
-8/10/2021, 10:42:44 PM - INFO - Server is running on port: 3030 
-8/10/2021, 10:47:32 PM - INFO - Server is running on port: 3030 
-8/10/2021, 10:49:17 PM - INFO - Server is running on port: 3030 
-8/10/2021, 10:51:21 PM - INFO - Server is running on port: 3030 
-8/10/2021, 10:53:40 PM - INFO - Server is running on port: 3030 
-8/10/2021, 10:57:59 PM - INFO - Server is running on port: 3030 
-8/10/2021, 10:58:29 PM - INFO - Server is running on port: 3030 
-8/10/2021, 10:59:01 PM - INFO - Server is running on port: 3030 
-8/10/2021, 11:00:11 PM - INFO - Server is running on port: 3030 
-8/10/2021, 11:05:48 PM - ERROR - Failed to move piece on board | TypeError: Cannot read property '0' of undefined (sid: 6_KAEMzA4QdUzkUab7VGnvrc7UwJLUOR)
-8/10/2021, 11:08:32 PM - INFO - Server is running on port: 3030 
-8/10/2021, 11:09:41 PM - INFO - Server is running on port: 3030 
-8/10/2021, 11:09:57 PM - ERROR - Failed to move piece on board | TypeError: Cannot read property '0' of undefined (sid: PuMCjqHVqELcz5d05Q5e8Nwg699lgU-T)
-8/10/2021, 11:11:02 PM - INFO - Server is running on port: 3030 
-8/10/2021, 11:11:19 PM - ERROR - Failed to move piece on board | TypeError: Cannot read property '0' of undefined (sid: uvOBR265TqjFe3Il9bfcv5Oi6aVRzbOD)
-8/10/2021, 11:29:26 PM - INFO - Server is running on port: 3030 
-8/10/2021, 11:32:27 PM - INFO - Server is running on port: 3030 
-8/10/2021, 11:32:47 PM - INFO - Server is running on port: 3030 
-8/10/2021, 11:35:09 PM - INFO - Server is running on port: 3030 
-8/10/2021, 11:36:40 PM - INFO - Server is running on port: 3030 
-8/10/2021, 11:37:37 PM - INFO - Server is running on port: 3030 
-8/10/2021, 11:38:24 PM - INFO - Server is running on port: 3030 
-8/10/2021, 11:40:29 PM - INFO - Server is running on port: 3030 
-8/10/2021, 11:41:17 PM - INFO - Server is running on port: 3030 
-8/10/2021, 11:46:05 PM - INFO - Server is running on port: 3030 
-8/11/2021, 12:02:45 AM - INFO - Server is running on port: 3030 
-8/11/2021, 9:51:54 AM - INFO - Server is running on port: 3030 
-8/11/2021, 10:02:45 AM - INFO - Server is running on port: 3030 
-8/11/2021, 10:04:34 AM - INFO - Server is running on port: 3030 
-8/11/2021, 10:51:26 AM - INFO - Server is running on port: 3030 
-8/11/2021, 4:55:17 PM - INFO - Server is running on port: 3030 
-8/11/2021, 6:38:41 PM - INFO - Server is running on port: 3030 
-8/12/2021, 3:25:44 PM - INFO - Server is running on port: 3030 
-8/12/2021, 3:27:07 PM - INFO - Server is running on port: 3030 
-8/12/2021, 3:27:14 PM - INFO - Server is running on port: 3030 
-8/12/2021, 3:29:06 PM - INFO - Server is running on port: 3030 
-8/12/2021, 3:30:10 PM - INFO - Server is running on port: 3030 
-8/12/2021, 3:30:14 PM - INFO - Server is running on port: 3030 
-8/12/2021, 3:31:25 PM - INFO - Server is running on port: 3030 
-8/12/2021, 4:08:42 PM - INFO - Server is running on port: 3030 
-8/12/2021, 4:09:10 PM - INFO - Server is running on port: 3030 
-8/12/2021, 4:27:39 PM - INFO - Server is running on port: 3030 
-8/12/2021, 4:27:46 PM - INFO - Server is running on port: 3030 
-8/12/2021, 4:27:58 PM - INFO - Server is running on port: 3030 
-8/12/2021, 4:28:03 PM - INFO - Server is running on port: 3030 
-8/12/2021, 4:28:09 PM - INFO - Server is running on port: 3030 
-8/12/2021, 4:41:49 PM - INFO - Server is running on port: 3030 
-8/12/2021, 4:56:26 PM - INFO - Server is running on port: 3030 
-8/12/2021, 5:01:31 PM - INFO - Server is running on port: 3030 
-8/12/2021, 5:07:42 PM - INFO - Server is running on port: 3030 
-8/12/2021, 5:34:16 PM - INFO - Server is running on port: 3030 
-8/12/2021, 5:34:43 PM - INFO - Server is running on port: 3030 
-8/12/2021, 5:36:51 PM - INFO - Server is running on port: 3030 
-8/12/2021, 5:44:43 PM - INFO - Server is running on port: 3030 
-8/12/2021, 5:52:16 PM - INFO - Server is running on port: 3030 
-8/12/2021, 5:52:44 PM - INFO - Server is running on port: 3030 
-8/12/2021, 5:53:20 PM - INFO - Server is running on port: 3030 
-8/12/2021, 5:55:37 PM - INFO - Server is running on port: 3030 
-8/12/2021, 5:58:34 PM - INFO - Server is running on port: 3030 
-8/12/2021, 5:59:56 PM - INFO - Server is running on port: 3030 
-8/12/2021, 6:02:24 PM - ERROR - Failed to update user | ReferenceError: logger is not defined (sid: YGHzHy-xQ6KxA3Rh3JRbTGoSDlMppceC)
-8/12/2021, 6:13:52 PM - INFO - Server is running on port: 3030 
-8/12/2021, 6:17:01 PM - INFO - Server is running on port: 3030 
-8/12/2021, 6:22:31 PM - INFO - Server is running on port: 3030 
-8/12/2021, 6:23:13 PM - INFO - Server is running on port: 3030 
-8/12/2021, 6:23:25 PM - INFO - Server is running on port: 3030 
-8/12/2021, 6:23:51 PM - INFO - Server is running on port: 3030 
-8/12/2021, 6:23:53 PM - INFO - Server is running on port: 3030 
-8/12/2021, 6:29:45 PM - INFO - Server is running on port: 3030 
-8/13/2021, 12:32:24 AM - INFO - Server is running on port: 3030 
-8/13/2021, 1:33:56 AM - INFO - Server is running on port: 3030 
-8/13/2021, 1:34:18 AM - DEBUG - auth.service - login with username: undefined (sid: OSTaicNvZoW0dn73kvkxomtsC_OlG9TF)
-8/13/2021, 1:34:18 AM - ERROR - Failed to Login Invalid username or password (sid: OSTaicNvZoW0dn73kvkxomtsC_OlG9TF)
-8/13/2021, 1:34:41 AM - DEBUG - auth.service - login with username: admin (sid: OSTaicNvZoW0dn73kvkxomtsC_OlG9TF)
-8/13/2021, 1:36:01 AM - DEBUG - auth.service - login with username: admin (sid: OSTaicNvZoW0dn73kvkxomtsC_OlG9TF)
-8/13/2021, 1:43:06 AM - DEBUG - auth.service - login with username: admin (sid: OSTaicNvZoW0dn73kvkxomtsC_OlG9TF)
-8/13/2021, 1:45:04 AM - INFO - Req from: undefined (sid: OSTaicNvZoW0dn73kvkxomtsC_OlG9TF)
-8/13/2021, 1:45:04 AM - INFO - Req from: undefined (sid: OSTaicNvZoW0dn73kvkxomtsC_OlG9TF)
-8/13/2021, 1:45:04 AM - INFO - Req from: undefined (sid: OSTaicNvZoW0dn73kvkxomtsC_OlG9TF)
-8/13/2021, 1:45:04 AM - INFO - Req from: undefined (sid: OSTaicNvZoW0dn73kvkxomtsC_OlG9TF)
-8/13/2021, 1:51:10 AM - INFO - Req from: undefined (sid: OSTaicNvZoW0dn73kvkxomtsC_OlG9TF)
-8/13/2021, 1:51:10 AM - INFO - Req from: undefined (sid: OSTaicNvZoW0dn73kvkxomtsC_OlG9TF)
-8/13/2021, 1:51:10 AM - INFO - Req from: undefined (sid: OSTaicNvZoW0dn73kvkxomtsC_OlG9TF)
-8/13/2021, 1:51:10 AM - INFO - Req from: undefined (sid: OSTaicNvZoW0dn73kvkxomtsC_OlG9TF)
-8/13/2021, 1:52:00 AM - INFO - Req from: undefined (sid: OSTaicNvZoW0dn73kvkxomtsC_OlG9TF)
-8/13/2021, 1:52:00 AM - INFO - Req from: undefined (sid: OSTaicNvZoW0dn73kvkxomtsC_OlG9TF)
-8/13/2021, 1:52:00 AM - INFO - Req from: undefined (sid: OSTaicNvZoW0dn73kvkxomtsC_OlG9TF)
-8/13/2021, 1:52:00 AM - INFO - Req from: undefined (sid: OSTaicNvZoW0dn73kvkxomtsC_OlG9TF)
-8/13/2021, 1:52:38 AM - INFO - Req from: undefined (sid: OSTaicNvZoW0dn73kvkxomtsC_OlG9TF)
-8/13/2021, 1:52:38 AM - INFO - Req from: undefined (sid: OSTaicNvZoW0dn73kvkxomtsC_OlG9TF)
-8/13/2021, 1:52:38 AM - INFO - Req from: undefined (sid: OSTaicNvZoW0dn73kvkxomtsC_OlG9TF)
-8/13/2021, 1:52:38 AM - INFO - Req from: undefined (sid: OSTaicNvZoW0dn73kvkxomtsC_OlG9TF)
-8/13/2021, 1:54:15 AM - INFO - Req from: undefined (sid: OSTaicNvZoW0dn73kvkxomtsC_OlG9TF)
-8/13/2021, 1:54:15 AM - INFO - Req from: undefined (sid: OSTaicNvZoW0dn73kvkxomtsC_OlG9TF)
-8/13/2021, 1:54:16 AM - INFO - Req from: undefined (sid: OSTaicNvZoW0dn73kvkxomtsC_OlG9TF)
-8/13/2021, 1:54:16 AM - INFO - Req from: undefined (sid: OSTaicNvZoW0dn73kvkxomtsC_OlG9TF)
-8/13/2021, 11:43:56 PM - INFO - Server is running on port: 3030 
-8/13/2021, 11:43:59 PM - DEBUG - auth.service - login with username: admin (sid: qs4nPURjgZLs17L7eNGVQzHiyiP5gqXG)
-8/13/2021, 11:49:11 PM - INFO - Req from: undefined (sid: qs4nPURjgZLs17L7eNGVQzHiyiP5gqXG)
-8/13/2021, 11:49:11 PM - INFO - Req from: undefined (sid: qs4nPURjgZLs17L7eNGVQzHiyiP5gqXG)
-8/13/2021, 11:49:11 PM - INFO - Req from: undefined (sid: qs4nPURjgZLs17L7eNGVQzHiyiP5gqXG)
-8/13/2021, 11:49:11 PM - INFO - Req from: undefined (sid: qs4nPURjgZLs17L7eNGVQzHiyiP5gqXG)
-8/13/2021, 11:55:35 PM - INFO - Req from: undefined (sid: qs4nPURjgZLs17L7eNGVQzHiyiP5gqXG)
-8/13/2021, 11:55:35 PM - INFO - Req from: undefined (sid: qs4nPURjgZLs17L7eNGVQzHiyiP5gqXG)
-8/13/2021, 11:55:35 PM - INFO - Req from: undefined (sid: qs4nPURjgZLs17L7eNGVQzHiyiP5gqXG)
-8/13/2021, 11:55:35 PM - INFO - Req from: undefined (sid: qs4nPURjgZLs17L7eNGVQzHiyiP5gqXG)
-8/13/2021, 11:56:34 PM - INFO - Req from: undefined (sid: qs4nPURjgZLs17L7eNGVQzHiyiP5gqXG)
-8/13/2021, 11:56:34 PM - INFO - Req from: undefined (sid: qs4nPURjgZLs17L7eNGVQzHiyiP5gqXG)
-8/13/2021, 11:56:34 PM - INFO - Req from: undefined (sid: qs4nPURjgZLs17L7eNGVQzHiyiP5gqXG)
-8/13/2021, 11:56:34 PM - INFO - Req from: undefined (sid: qs4nPURjgZLs17L7eNGVQzHiyiP5gqXG)
-8/13/2021, 11:56:38 PM - INFO - Req from: undefined (sid: qs4nPURjgZLs17L7eNGVQzHiyiP5gqXG)
-8/13/2021, 11:56:38 PM - INFO - Req from: undefined (sid: qs4nPURjgZLs17L7eNGVQzHiyiP5gqXG)
-8/13/2021, 11:56:38 PM - INFO - Req from: undefined (sid: qs4nPURjgZLs17L7eNGVQzHiyiP5gqXG)
-8/13/2021, 11:56:38 PM - INFO - Req from: undefined (sid: qs4nPURjgZLs17L7eNGVQzHiyiP5gqXG)
-8/13/2021, 11:56:47 PM - INFO - Req from: undefined (sid: qs4nPURjgZLs17L7eNGVQzHiyiP5gqXG)
-8/13/2021, 11:56:47 PM - DEBUG - auth.service - login with username: admin (sid: qs4nPURjgZLs17L7eNGVQzHiyiP5gqXG)
-8/13/2021, 11:56:47 PM - INFO - Req from: undefined (sid: qs4nPURjgZLs17L7eNGVQzHiyiP5gqXG)
-8/13/2021, 11:56:47 PM - INFO - Req from: undefined (sid: qs4nPURjgZLs17L7eNGVQzHiyiP5gqXG)
-8/13/2021, 11:56:47 PM - INFO - Req from: undefined (sid: qs4nPURjgZLs17L7eNGVQzHiyiP5gqXG)
-8/13/2021, 11:56:56 PM - INFO - Req from: undefined (sid: qs4nPURjgZLs17L7eNGVQzHiyiP5gqXG)
-8/13/2021, 11:56:56 PM - INFO - Req from: undefined (sid: qs4nPURjgZLs17L7eNGVQzHiyiP5gqXG)
-8/13/2021, 11:56:56 PM - INFO - Req from: undefined (sid: qs4nPURjgZLs17L7eNGVQzHiyiP5gqXG)
-8/13/2021, 11:56:56 PM - INFO - Req from: undefined (sid: qs4nPURjgZLs17L7eNGVQzHiyiP5gqXG)
-8/13/2021, 11:57:02 PM - DEBUG - auth.service - login with username: admin (sid: qs4nPURjgZLs17L7eNGVQzHiyiP5gqXG)
-8/13/2021, 11:57:02 PM - INFO - Req from: undefined (sid: qs4nPURjgZLs17L7eNGVQzHiyiP5gqXG)
-8/13/2021, 11:59:45 PM - INFO - Req from: undefined (sid: qs4nPURjgZLs17L7eNGVQzHiyiP5gqXG)
-8/13/2021, 11:59:45 PM - INFO - Req from: undefined (sid: qs4nPURjgZLs17L7eNGVQzHiyiP5gqXG)
-8/13/2021, 11:59:45 PM - INFO - Req from: undefined (sid: qs4nPURjgZLs17L7eNGVQzHiyiP5gqXG)
-8/13/2021, 11:59:45 PM - INFO - Req from: undefined (sid: qs4nPURjgZLs17L7eNGVQzHiyiP5gqXG)
-8/14/2021, 12:00:23 AM - INFO - Server is running on port: 3030 
-8/14/2021, 12:21:37 PM - INFO - Server is running on port: 3030 
-8/14/2021, 12:24:33 PM - DEBUG - auth.service - login with username: admin (sid: b_lrWV0cYH1rUp9pU1ASVwXoCKFlk5ok)
-8/14/2021, 12:24:33 PM - INFO - Req from: undefined (sid: b_lrWV0cYH1rUp9pU1ASVwXoCKFlk5ok)
-8/14/2021, 12:24:33 PM - INFO - Req from: undefined (sid: b_lrWV0cYH1rUp9pU1ASVwXoCKFlk5ok)
-8/14/2021, 12:24:33 PM - INFO - Req from: undefined (sid: b_lrWV0cYH1rUp9pU1ASVwXoCKFlk5ok)
-8/14/2021, 12:24:33 PM - INFO - Req from: undefined (sid: b_lrWV0cYH1rUp9pU1ASVwXoCKFlk5ok)
-8/14/2021, 12:24:33 PM - INFO - Req from: undefined (sid: b_lrWV0cYH1rUp9pU1ASVwXoCKFlk5ok)
-8/14/2021, 2:40:52 PM - DEBUG - auth.service - login with username: admin (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:40:52 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:40:52 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:40:52 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:40:52 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:41:11 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:41:24 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:41:24 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:41:24 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:41:24 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:46:01 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:46:01 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:46:01 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:46:01 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:46:05 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:46:14 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:46:14 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:46:14 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:46:14 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:47:11 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:48:05 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:48:05 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:48:05 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:48:05 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:48:07 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:48:07 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:48:07 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:48:07 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:48:07 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:49:45 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:49:45 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:49:45 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:49:45 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:49:50 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:49:50 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:49:50 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:49:50 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:49:54 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:49:54 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:49:54 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:49:54 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:50:05 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:50:05 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:50:05 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:50:05 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:52:39 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:52:39 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:52:39 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:52:39 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:52:53 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:52:53 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:52:53 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:52:53 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:52:57 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:52:57 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:52:57 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:52:57 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:52:58 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:52:58 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:52:58 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:52:58 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:53:01 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:53:01 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:53:01 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:53:01 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:53:01 PM - INFO - Req from: undefined (sid: EV3KaGIuWUczSVqut7tWM5b53X7nLxcC)
-8/14/2021, 2:54:02 PM - INFO - Server is running on port: 3030 
-8/14/2021, 3:05:41 PM - INFO - Server is running on port: 3030 
-8/14/2021, 3:13:32 PM - ERROR - Failed to move piece on board | ReferenceError: updateGame is not defined (sid: T3IWqZu_VnNWDWTE0yzBOzEl_rR4Toc1)
-8/14/2021, 3:15:53 PM - INFO - Server is running on port: 3030 
-8/14/2021, 3:16:09 PM - ERROR - Failed to move piece on board | TypeError: Cannot read property 'gameBoard' of undefined (sid: sjqbq4kY4kiaAJfj5LfCTMh5L1_NSlMh)
-8/14/2021, 3:20:03 PM - INFO - Server is running on port: 3030 
-8/14/2021, 3:20:09 PM - ERROR - Failed to move piece on board | TypeError: Cannot read property 'gameBoard' of undefined (sid: yVKt0v1fI8wnARg1e5pX8RJ9fDovqGVZ)
-8/14/2021, 3:38:30 PM - INFO - Server is running on port: 3030 
-8/14/2021, 3:39:16 PM - INFO - Server is running on port: 3030 
-8/14/2021, 3:40:40 PM - INFO - Server is running on port: 3030 
-8/14/2021, 3:44:15 PM - DEBUG - auth.service - login with username: admin2 (sid: RfaGeY0DtTr9JFnmpMEZkoe4fM-ef6S7)
-8/14/2021, 3:44:15 PM - INFO - Req from: admin2 (sid: RfaGeY0DtTr9JFnmpMEZkoe4fM-ef6S7)
-8/14/2021, 3:44:15 PM - INFO - Req from: admin2 (sid: RfaGeY0DtTr9JFnmpMEZkoe4fM-ef6S7)
-8/14/2021, 3:44:15 PM - INFO - Req from: admin2 (sid: RfaGeY0DtTr9JFnmpMEZkoe4fM-ef6S7)
-8/14/2021, 3:44:15 PM - INFO - Req from: admin2 (sid: RfaGeY0DtTr9JFnmpMEZkoe4fM-ef6S7)
-8/14/2021, 3:44:15 PM - INFO - Req from: admin2 (sid: RfaGeY0DtTr9JFnmpMEZkoe4fM-ef6S7)
-8/14/2021, 3:44:15 PM - INFO - Req from: admin2 (sid: RfaGeY0DtTr9JFnmpMEZkoe4fM-ef6S7)
-8/14/2021, 3:44:17 PM - INFO - Req from: admin2 (sid: RfaGeY0DtTr9JFnmpMEZkoe4fM-ef6S7)
-8/14/2021, 3:44:17 PM - INFO - Req from: admin2 (sid: RfaGeY0DtTr9JFnmpMEZkoe4fM-ef6S7)
-8/14/2021, 3:44:17 PM - INFO - Req from: admin2 (sid: RfaGeY0DtTr9JFnmpMEZkoe4fM-ef6S7)
-8/14/2021, 3:44:17 PM - INFO - Req from: admin2 (sid: RfaGeY0DtTr9JFnmpMEZkoe4fM-ef6S7)
-8/14/2021, 3:44:50 PM - INFO - Req from: admin2 (sid: RfaGeY0DtTr9JFnmpMEZkoe4fM-ef6S7)
-8/14/2021, 3:45:04 PM - INFO - Req from: admin2 (sid: RfaGeY0DtTr9JFnmpMEZkoe4fM-ef6S7)
-8/14/2021, 3:45:04 PM - INFO - Req from: admin2 (sid: RfaGeY0DtTr9JFnmpMEZkoe4fM-ef6S7)
-8/14/2021, 3:45:04 PM - INFO - Req from: admin2 (sid: RfaGeY0DtTr9JFnmpMEZkoe4fM-ef6S7)
-8/14/2021, 3:45:04 PM - INFO - Req from: admin2 (sid: RfaGeY0DtTr9JFnmpMEZkoe4fM-ef6S7)
-8/14/2021, 3:45:06 PM - INFO - Req from: admin2 (sid: RfaGeY0DtTr9JFnmpMEZkoe4fM-ef6S7)
-8/14/2021, 3:45:16 PM - INFO - Req from: admin2 (sid: RfaGeY0DtTr9JFnmpMEZkoe4fM-ef6S7)
-8/14/2021, 3:45:16 PM - INFO - Req from: admin2 (sid: RfaGeY0DtTr9JFnmpMEZkoe4fM-ef6S7)
-8/14/2021, 3:45:16 PM - INFO - Req from: admin2 (sid: RfaGeY0DtTr9JFnmpMEZkoe4fM-ef6S7)
-8/14/2021, 3:45:16 PM - INFO - Req from: admin2 (sid: RfaGeY0DtTr9JFnmpMEZkoe4fM-ef6S7)
-8/14/2021, 3:45:19 PM - INFO - Req from: admin2 (sid: RfaGeY0DtTr9JFnmpMEZkoe4fM-ef6S7)
-8/14/2021, 4:13:50 PM - INFO - Server is running on port: 3030 
-8/14/2021, 4:22:16 PM - INFO - Server is running on port: 3030 
-8/14/2021, 9:50:56 PM - INFO - Server is running on port: 3030 
-8/14/2021, 9:59:42 PM - INFO - Server is running on port: 3030 
-8/14/2021, 10:00:25 PM - DEBUG - auth.service - login with username: admin (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:00:25 PM - INFO - Req from: admin (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:00:25 PM - INFO - Req from: admin (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:00:25 PM - INFO - Req from: admin (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:00:25 PM - INFO - Req from: admin (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:00:25 PM - INFO - Req from: admin (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:00:25 PM - INFO - Req from: admin (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:00:29 PM - INFO - Req from: admin (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:00:30 PM - INFO - Req from: admin (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:00:30 PM - INFO - Req from: admin (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:00:30 PM - INFO - Req from: admin (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:00:30 PM - INFO - Req from: admin (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:00:51 PM - DEBUG - auth.service - login with username: admin2 (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:00:56 PM - INFO - Req from: admin2 (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:00:56 PM - INFO - Req from: admin2 (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:00:56 PM - INFO - Req from: admin2 (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:00:56 PM - INFO - Req from: admin2 (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:02:40 PM - INFO - Req from: admin2 (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:02:40 PM - INFO - Req from: admin2 (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:02:40 PM - INFO - Req from: admin2 (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:02:40 PM - INFO - Req from: admin2 (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:02:40 PM - INFO - Req from: admin2 (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:02:40 PM - INFO - Req from: admin2 (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:02:40 PM - INFO - Req from: admin2 (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:02:40 PM - INFO - Req from: admin2 (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:02:50 PM - INFO - Req from: admin2 (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:02:50 PM - INFO - Req from: admin2 (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:02:50 PM - INFO - Req from: admin2 (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:02:50 PM - INFO - Req from: admin2 (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:03:25 PM - INFO - Req from: admin2 (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:03:25 PM - INFO - Req from: admin2 (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:03:25 PM - INFO - Req from: admin2 (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:03:25 PM - INFO - Req from: admin2 (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:04:34 PM - INFO - Req from: admin2 (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:04:34 PM - INFO - Req from: admin2 (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:04:34 PM - INFO - Req from: admin2 (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:04:34 PM - INFO - Req from: admin2 (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:05:26 PM - INFO - Req from: admin2 (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:05:26 PM - INFO - Req from: admin2 (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:05:26 PM - INFO - Req from: admin2 (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:05:26 PM - INFO - Req from: admin2 (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:06:42 PM - INFO - Req from: admin2 (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:06:42 PM - INFO - Req from: admin2 (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:06:42 PM - INFO - Req from: admin2 (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:06:42 PM - INFO - Req from: admin2 (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:06:44 PM - INFO - Req from: admin2 (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:06:44 PM - INFO - Req from: admin2 (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:06:44 PM - INFO - Req from: admin2 (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:06:44 PM - INFO - Req from: admin2 (sid: D_AqjsKq2dqHuef8xC2Jz_GSsZVOEkHe)
-8/14/2021, 10:09:59 PM - INFO - Server is running on port: 3030 
-8/15/2021, 11:31:52 AM - INFO - Server is running on port: 3030 
-8/15/2021, 11:57:32 AM - INFO - Server is running on port: 3030 
-8/15/2021, 11:57:41 AM - INFO - Server is running on port: 3030 
-8/15/2021, 12:04:14 PM - DEBUG - auth.service - login with username: admin (sid: LVEAQ0FQ1kOOhZ5TyBqGjvCUbdI7dUXY)
-8/15/2021, 12:04:19 PM - INFO - Req from: admin (sid: LVEAQ0FQ1kOOhZ5TyBqGjvCUbdI7dUXY)
-8/15/2021, 12:04:19 PM - INFO - Req from: admin (sid: LVEAQ0FQ1kOOhZ5TyBqGjvCUbdI7dUXY)
-8/15/2021, 12:04:19 PM - INFO - Req from: admin (sid: LVEAQ0FQ1kOOhZ5TyBqGjvCUbdI7dUXY)
-8/15/2021, 12:04:19 PM - INFO - Req from: admin (sid: LVEAQ0FQ1kOOhZ5TyBqGjvCUbdI7dUXY)
-8/15/2021, 12:07:50 PM - INFO - Req from: admin (sid: LVEAQ0FQ1kOOhZ5TyBqGjvCUbdI7dUXY)
-8/15/2021, 12:07:50 PM - INFO - Req from: admin (sid: LVEAQ0FQ1kOOhZ5TyBqGjvCUbdI7dUXY)
-8/15/2021, 12:07:50 PM - INFO - Req from: admin (sid: LVEAQ0FQ1kOOhZ5TyBqGjvCUbdI7dUXY)
-8/15/2021, 12:07:50 PM - INFO - Req from: admin (sid: LVEAQ0FQ1kOOhZ5TyBqGjvCUbdI7dUXY)
-8/15/2021, 12:08:44 PM - DEBUG - auth.service - login with username: admin (sid: nSTOJmSmKVCg5GOidUAoH-nPrX_IVFOs)
-8/15/2021, 12:16:38 PM - DEBUG - auth.service - login with username: admin (sid: nSTOJmSmKVCg5GOidUAoH-nPrX_IVFOs)
-8/15/2021, 12:29:39 PM - INFO - Req from: admin (sid: nSTOJmSmKVCg5GOidUAoH-nPrX_IVFOs)
-8/15/2021, 12:29:39 PM - INFO - Req from: admin (sid: nSTOJmSmKVCg5GOidUAoH-nPrX_IVFOs)
-8/15/2021, 12:29:39 PM - INFO - Req from: admin (sid: nSTOJmSmKVCg5GOidUAoH-nPrX_IVFOs)
-8/15/2021, 12:29:39 PM - INFO - Req from: admin (sid: nSTOJmSmKVCg5GOidUAoH-nPrX_IVFOs)
-8/15/2021, 12:29:40 PM - INFO - Req from: admin (sid: nSTOJmSmKVCg5GOidUAoH-nPrX_IVFOs)
-8/15/2021, 12:30:00 PM - INFO - Req from: admin (sid: nSTOJmSmKVCg5GOidUAoH-nPrX_IVFOs)
-8/15/2021, 12:30:00 PM - INFO - Req from: admin (sid: nSTOJmSmKVCg5GOidUAoH-nPrX_IVFOs)
-8/15/2021, 12:30:00 PM - INFO - Req from: admin (sid: nSTOJmSmKVCg5GOidUAoH-nPrX_IVFOs)
-8/15/2021, 12:30:00 PM - INFO - Req from: admin (sid: nSTOJmSmKVCg5GOidUAoH-nPrX_IVFOs)
-8/15/2021, 12:30:04 PM - INFO - Req from: admin (sid: nSTOJmSmKVCg5GOidUAoH-nPrX_IVFOs)
-8/15/2021, 12:30:04 PM - INFO - Req from: admin (sid: nSTOJmSmKVCg5GOidUAoH-nPrX_IVFOs)
-8/15/2021, 12:30:05 PM - INFO - Req from: admin (sid: nSTOJmSmKVCg5GOidUAoH-nPrX_IVFOs)
-8/15/2021, 12:30:05 PM - INFO - Req from: admin (sid: nSTOJmSmKVCg5GOidUAoH-nPrX_IVFOs)
-8/15/2021, 12:30:08 PM - INFO - Req from: admin (sid: nSTOJmSmKVCg5GOidUAoH-nPrX_IVFOs)
-8/15/2021, 12:30:08 PM - INFO - Req from: admin (sid: nSTOJmSmKVCg5GOidUAoH-nPrX_IVFOs)
-8/15/2021, 12:30:08 PM - INFO - Req from: admin (sid: nSTOJmSmKVCg5GOidUAoH-nPrX_IVFOs)
-8/15/2021, 12:30:08 PM - INFO - Req from: admin (sid: nSTOJmSmKVCg5GOidUAoH-nPrX_IVFOs)
-8/15/2021, 12:30:09 PM - INFO - Req from: admin (sid: nSTOJmSmKVCg5GOidUAoH-nPrX_IVFOs)
-8/15/2021, 12:30:09 PM - INFO - Req from: admin (sid: nSTOJmSmKVCg5GOidUAoH-nPrX_IVFOs)
-8/15/2021, 12:30:09 PM - INFO - Req from: admin (sid: nSTOJmSmKVCg5GOidUAoH-nPrX_IVFOs)
-8/15/2021, 12:30:09 PM - INFO - Req from: admin (sid: nSTOJmSmKVCg5GOidUAoH-nPrX_IVFOs)
-8/15/2021, 12:30:09 PM - INFO - Req from: admin (sid: nSTOJmSmKVCg5GOidUAoH-nPrX_IVFOs)
-8/15/2021, 12:43:17 PM - INFO - Server is running on port: 3030 
-8/15/2021, 12:48:46 PM - INFO - Server is running on port: 3030 
-8/15/2021, 12:49:37 PM - DEBUG - auth.service - login with username: admin (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:49:37 PM - INFO - Req from: admin (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:49:37 PM - INFO - Req from: admin (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:49:37 PM - INFO - Req from: admin (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:49:37 PM - INFO - Req from: admin (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:49:37 PM - INFO - Req from: admin (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:49:37 PM - INFO - Req from: admin (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:49:41 PM - INFO - Req from: admin (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:49:41 PM - INFO - Req from: admin (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:49:41 PM - INFO - Req from: admin (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:49:41 PM - INFO - Req from: admin (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:49:41 PM - INFO - Req from: admin (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:50:15 PM - DEBUG - auth.service - login with username: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:50:17 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:50:17 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:50:17 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:50:17 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:50:25 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:50:25 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:50:25 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:50:25 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:50:57 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:50:57 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:50:57 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:50:57 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:51:04 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:51:04 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:51:04 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:51:04 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:51:14 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:51:14 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:51:14 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:51:14 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:51:20 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:51:20 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:51:20 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:51:20 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:51:20 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:51:24 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:51:24 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:51:24 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:51:24 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:51:25 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:51:25 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:51:25 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:51:25 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:51:51 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:51:51 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:51:51 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:51:51 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:51:54 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:51:54 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:51:54 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:51:54 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:51:55 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:51:55 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:51:55 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:51:55 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:51:55 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:51:59 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:51:59 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:51:59 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:51:59 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:52:04 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:52:04 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:52:04 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:52:04 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:52:04 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:56:15 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:56:15 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:56:15 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:56:15 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:56:17 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:56:17 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:56:17 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:56:17 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:56:18 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:56:18 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:56:18 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:56:18 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:56:18 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:56:22 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:56:22 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:56:22 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:56:22 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:56:23 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:56:23 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:56:23 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:56:23 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 12:56:23 PM - INFO - Req from: admin2 (sid: YbXYAxQn7a0arfM3FqwaAgXa1rJ9YGso)
-8/15/2021, 2:57:26 PM - INFO - Server is running on port: 3030 
-8/15/2021, 2:57:26 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: eAzO-vo-rjeLLh20J3z9asOVfJQfDViT)
-8/15/2021, 3:15:22 PM - INFO - Server is running on port: 3030 
-8/15/2021, 3:18:06 PM - INFO - Server is running on port: 3030 
-8/15/2021, 3:18:43 PM - DEBUG - auth.service - login with username: admin (sid: Q-xi_F1r3Cg8AloXgnj2HcvN_QX4u1ct)
-8/15/2021, 3:18:43 PM - INFO - Req from: admin (sid: Q-xi_F1r3Cg8AloXgnj2HcvN_QX4u1ct)
-8/15/2021, 3:18:43 PM - INFO - Req from: admin (sid: Q-xi_F1r3Cg8AloXgnj2HcvN_QX4u1ct)
-8/15/2021, 3:18:43 PM - INFO - Req from: admin (sid: Q-xi_F1r3Cg8AloXgnj2HcvN_QX4u1ct)
-8/15/2021, 3:18:43 PM - INFO - Req from: admin (sid: Q-xi_F1r3Cg8AloXgnj2HcvN_QX4u1ct)
-8/15/2021, 3:18:43 PM - INFO - Req from: admin (sid: Q-xi_F1r3Cg8AloXgnj2HcvN_QX4u1ct)
-8/15/2021, 3:18:43 PM - INFO - Req from: admin (sid: Q-xi_F1r3Cg8AloXgnj2HcvN_QX4u1ct)
-8/15/2021, 3:21:50 PM - INFO - Req from: admin (sid: Q-xi_F1r3Cg8AloXgnj2HcvN_QX4u1ct)
-8/15/2021, 3:21:50 PM - INFO - Req from: admin (sid: Q-xi_F1r3Cg8AloXgnj2HcvN_QX4u1ct)
-8/15/2021, 3:24:26 PM - DEBUG - auth.service - login with username: admin (sid: Q-xi_F1r3Cg8AloXgnj2HcvN_QX4u1ct)
-8/15/2021, 3:28:15 PM - DEBUG - auth.service - login with username: admin (sid: Q-xi_F1r3Cg8AloXgnj2HcvN_QX4u1ct)
-8/15/2021, 3:30:06 PM - DEBUG - auth.service - login with username: admin (sid: Q-xi_F1r3Cg8AloXgnj2HcvN_QX4u1ct)
-8/16/2021, 12:54:23 AM - INFO - Server is running on port: 3030 
-8/16/2021, 12:55:24 AM - INFO - Server is running on port: 3030 
-8/16/2021, 12:55:30 AM - INFO - Server is running on port: 3030 
-8/16/2021, 12:56:52 AM - DEBUG - auth.service - login with username: admin (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:56:52 AM - INFO - Req from: admin (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:56:52 AM - INFO - Req from: admin (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:56:52 AM - INFO - Req from: admin (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:56:52 AM - INFO - Req from: admin (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:56:52 AM - INFO - Req from: admin (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:56:52 AM - INFO - Req from: admin (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:57:31 AM - INFO - Req from: admin (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:57:31 AM - INFO - Req from: admin (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:57:31 AM - INFO - Req from: admin (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:57:31 AM - INFO - Req from: admin (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:57:31 AM - INFO - Req from: admin (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:57:41 AM - INFO - Req from: admin (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:57:41 AM - INFO - Req from: admin (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:57:41 AM - INFO - Req from: admin (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:57:41 AM - INFO - Req from: admin (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:57:47 AM - DEBUG - auth.service - login with username: admin2 (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:57:47 AM - INFO - Req from: admin2 (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:57:47 AM - INFO - Req from: admin2 (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:57:47 AM - INFO - Req from: admin2 (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:57:47 AM - INFO - Req from: admin2 (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:57:47 AM - INFO - Req from: admin2 (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:57:47 AM - INFO - Req from: admin2 (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:59:25 AM - INFO - Req from: admin2 (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:59:25 AM - INFO - Req from: admin2 (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:59:25 AM - INFO - Req from: admin2 (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:59:25 AM - INFO - Req from: admin2 (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:59:30 AM - INFO - Req from: admin2 (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:59:30 AM - INFO - Req from: admin2 (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:59:30 AM - ERROR - cannot update user undefined | TypeError: gUsers.findindex is not a function (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:59:30 AM - ERROR - Failed to update board | TypeError: gUsers.findindex is not a function (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:59:30 AM - INFO - Req from: admin2 (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:59:30 AM - INFO - Req from: admin2 (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:59:30 AM - INFO - Req from: admin2 (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:59:37 AM - INFO - Req from: admin2 (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:59:37 AM - INFO - Req from: admin2 (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:59:37 AM - INFO - Req from: admin2 (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:59:37 AM - INFO - Req from: admin2 (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:59:41 AM - INFO - Req from: admin2 (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:59:54 AM - INFO - Req from: admin2 (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:59:54 AM - INFO - Req from: admin2 (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:59:54 AM - INFO - Req from: admin2 (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 12:59:54 AM - INFO - Req from: admin2 (sid: H_bePwJIRkcl2PWJzeWCcBvDgPeD6zNO)
-8/16/2021, 1:02:04 AM - INFO - Server is running on port: 3030 
-8/16/2021, 1:02:31 AM - DEBUG - auth.service - login with username: admin (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:02:31 AM - INFO - Req from: admin (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:02:31 AM - INFO - Req from: admin (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:02:31 AM - INFO - Req from: admin (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:02:31 AM - INFO - Req from: admin (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:02:31 AM - INFO - Req from: admin (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:02:35 AM - INFO - Req from: admin (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:02:35 AM - INFO - Req from: admin (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:02:35 AM - INFO - Req from: admin (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:02:35 AM - INFO - Req from: admin (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:02:35 AM - INFO - Req from: admin (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:02:44 AM - INFO - Req from: admin (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:02:44 AM - INFO - Req from: admin (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:02:44 AM - INFO - Req from: admin (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:02:44 AM - INFO - Req from: admin (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:02:55 AM - INFO - Req from: admin (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:02:55 AM - DEBUG - auth.service - login with username: admin2 (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:02:55 AM - INFO - Req from: admin2 (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:02:55 AM - INFO - Req from: admin2 (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:02:55 AM - INFO - Req from: admin2 (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:02:55 AM - INFO - Req from: admin2 (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:02:55 AM - INFO - Req from: admin2 (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:02:59 AM - INFO - Req from: admin2 (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:02:59 AM - INFO - Req from: admin2 (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:02:59 AM - INFO - Req from: admin2 (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:02:59 AM - INFO - Req from: admin2 (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:02:59 AM - INFO - Req from: admin2 (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:02:59 AM - INFO - Req from: admin2 (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:02:59 AM - INFO - Req from: admin2 (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:02:59 AM - INFO - Req from: admin2 (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:02:59 AM - INFO - Req from: admin2 (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:03:03 AM - INFO - Req from: admin2 (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:03:03 AM - INFO - Req from: admin2 (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:03:03 AM - INFO - Req from: admin2 (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:03:03 AM - INFO - Req from: admin2 (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:03:05 AM - INFO - Req from: admin2 (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:03:09 AM - INFO - Req from: admin2 (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:03:09 AM - INFO - Req from: admin2 (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:03:09 AM - INFO - Req from: admin2 (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:03:09 AM - INFO - Req from: admin2 (sid: aYLm6In_uJ4vi2njkj5DNlG0htQ4osns)
-8/16/2021, 1:06:08 AM - INFO - Server is running on port: 3030 
-8/16/2021, 1:06:22 AM - DEBUG - auth.service - login with username: admin (sid: QYNMujPlIlXtQOexeJNg_8iDM7b9tCAQ)
-8/16/2021, 1:06:28 AM - INFO - Req from: admin (sid: QYNMujPlIlXtQOexeJNg_8iDM7b9tCAQ)
-8/16/2021, 1:06:28 AM - INFO - Req from: admin (sid: QYNMujPlIlXtQOexeJNg_8iDM7b9tCAQ)
-8/16/2021, 1:06:28 AM - INFO - Req from: admin (sid: QYNMujPlIlXtQOexeJNg_8iDM7b9tCAQ)
-8/16/2021, 1:06:28 AM - INFO - Req from: admin (sid: QYNMujPlIlXtQOexeJNg_8iDM7b9tCAQ)
-8/16/2021, 1:06:30 AM - INFO - Req from: admin (sid: QYNMujPlIlXtQOexeJNg_8iDM7b9tCAQ)
-8/16/2021, 1:06:30 AM - INFO - Req from: admin (sid: QYNMujPlIlXtQOexeJNg_8iDM7b9tCAQ)
-8/16/2021, 1:06:30 AM - INFO - Req from: admin (sid: QYNMujPlIlXtQOexeJNg_8iDM7b9tCAQ)
-8/16/2021, 1:06:30 AM - INFO - Req from: admin (sid: QYNMujPlIlXtQOexeJNg_8iDM7b9tCAQ)
-8/16/2021, 1:06:30 AM - INFO - Req from: admin (sid: QYNMujPlIlXtQOexeJNg_8iDM7b9tCAQ)
-8/16/2021, 1:06:40 AM - DEBUG - auth.service - login with username: admin2 (sid: QYNMujPlIlXtQOexeJNg_8iDM7b9tCAQ)
-8/16/2021, 1:06:46 AM - INFO - Req from: admin2 (sid: QYNMujPlIlXtQOexeJNg_8iDM7b9tCAQ)
-8/16/2021, 1:06:46 AM - INFO - Req from: admin2 (sid: QYNMujPlIlXtQOexeJNg_8iDM7b9tCAQ)
-8/16/2021, 1:06:46 AM - INFO - Req from: admin2 (sid: QYNMujPlIlXtQOexeJNg_8iDM7b9tCAQ)
-8/16/2021, 1:06:46 AM - INFO - Req from: admin2 (sid: QYNMujPlIlXtQOexeJNg_8iDM7b9tCAQ)
-8/16/2021, 1:06:49 AM - INFO - Req from: admin2 (sid: QYNMujPlIlXtQOexeJNg_8iDM7b9tCAQ)
-8/16/2021, 1:06:49 AM - INFO - Req from: admin2 (sid: QYNMujPlIlXtQOexeJNg_8iDM7b9tCAQ)
-8/16/2021, 1:06:49 AM - INFO - Req from: admin2 (sid: QYNMujPlIlXtQOexeJNg_8iDM7b9tCAQ)
-8/16/2021, 1:06:49 AM - INFO - Req from: admin2 (sid: QYNMujPlIlXtQOexeJNg_8iDM7b9tCAQ)
-8/16/2021, 1:06:49 AM - INFO - Req from: admin2 (sid: QYNMujPlIlXtQOexeJNg_8iDM7b9tCAQ)
-8/16/2021, 1:06:49 AM - INFO - Req from: admin2 (sid: QYNMujPlIlXtQOexeJNg_8iDM7b9tCAQ)
-8/16/2021, 1:06:49 AM - INFO - Req from: admin2 (sid: QYNMujPlIlXtQOexeJNg_8iDM7b9tCAQ)
-8/16/2021, 1:06:49 AM - INFO - Req from: admin2 (sid: QYNMujPlIlXtQOexeJNg_8iDM7b9tCAQ)
-8/16/2021, 1:06:49 AM - INFO - Req from: admin2 (sid: QYNMujPlIlXtQOexeJNg_8iDM7b9tCAQ)
-8/16/2021, 1:07:41 AM - INFO - Server is running on port: 3030 
-8/16/2021, 1:07:55 AM - DEBUG - auth.service - login with username: admin2 (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:08:00 AM - INFO - Req from: admin2 (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:08:00 AM - INFO - Req from: admin2 (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:08:00 AM - INFO - Req from: admin2 (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:08:00 AM - INFO - Req from: admin2 (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:08:05 AM - INFO - Req from: admin2 (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:08:05 AM - INFO - Req from: admin2 (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:08:05 AM - INFO - Req from: admin2 (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:08:05 AM - INFO - Req from: admin2 (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:08:05 AM - INFO - Req from: admin2 (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:08:13 AM - DEBUG - auth.service - login with username: admin (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:08:21 AM - INFO - Req from: admin (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:08:21 AM - INFO - Req from: admin (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:08:21 AM - INFO - Req from: admin (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:08:21 AM - INFO - Req from: admin (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:08:23 AM - INFO - Req from: admin (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:08:23 AM - INFO - Req from: admin (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:08:23 AM - INFO - Req from: admin (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:08:23 AM - INFO - Req from: admin (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:08:23 AM - INFO - Req from: admin (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:08:23 AM - INFO - Req from: admin (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:08:23 AM - INFO - Req from: admin (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:08:23 AM - INFO - Req from: admin (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:08:23 AM - INFO - Req from: admin (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:08:53 AM - INFO - Req from: admin (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:08:53 AM - INFO - Req from: admin (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:08:53 AM - INFO - Req from: admin (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:08:53 AM - INFO - Req from: admin (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:09:17 AM - INFO - Req from: admin (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:09:17 AM - INFO - Req from: admin (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:09:17 AM - INFO - Req from: admin (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:09:17 AM - INFO - Req from: admin (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:09:21 AM - INFO - Req from: admin (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:09:26 AM - INFO - Req from: admin (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:09:26 AM - INFO - Req from: admin (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:09:26 AM - INFO - Req from: admin (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:09:26 AM - INFO - Req from: admin (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:09:33 AM - INFO - Req from: admin (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:09:36 AM - INFO - Req from: admin (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:09:36 AM - INFO - Req from: admin (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:09:36 AM - INFO - Req from: admin (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:09:36 AM - INFO - Req from: admin (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:09:40 AM - INFO - Req from: admin (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:09:40 AM - INFO - Req from: admin (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:09:40 AM - INFO - Req from: admin (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:09:40 AM - INFO - Req from: admin (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:09:43 AM - INFO - Req from: admin (sid: Mj7voo2YQI6W2Dcj1RazCzusVJdRA7K0)
-8/16/2021, 1:14:32 AM - INFO - Server is running on port: 3030 
-8/16/2021, 1:20:00 PM - INFO - Server is running on port: 3030 
-8/16/2021, 1:20:21 PM - DEBUG - auth.service - login with username: admin (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:20:21 PM - INFO - Req from: admin (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:20:21 PM - INFO - Req from: admin (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:20:21 PM - INFO - Req from: admin (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:20:21 PM - INFO - Req from: admin (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:20:21 PM - INFO - Req from: admin (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:20:30 PM - INFO - Req from: admin (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:20:30 PM - INFO - Req from: admin (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:20:30 PM - INFO - Req from: admin (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:20:30 PM - INFO - Req from: admin (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:20:30 PM - INFO - Req from: admin (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:20:34 PM - INFO - Req from: admin (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:20:34 PM - INFO - Req from: admin (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:20:34 PM - INFO - Req from: admin (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:20:34 PM - INFO - Req from: admin (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:20:42 PM - DEBUG - auth.service - login with username: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:20:42 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:20:42 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:20:42 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:20:42 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:20:42 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:20:42 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:20:45 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:20:45 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:20:45 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:20:45 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:20:45 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:20:45 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:20:45 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:20:45 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:20:45 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:20:49 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:20:49 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:20:49 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:20:49 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:20:56 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:21:01 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:21:01 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:21:02 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:21:02 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:21:03 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:21:09 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:21:09 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:21:09 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:21:09 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:21:11 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:21:11 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:21:11 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:21:11 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:26:21 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:26:21 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:26:21 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:26:21 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:29:14 PM - DEBUG - auth.service - login with username: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:29:14 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:29:14 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:29:14 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:29:14 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:29:14 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:29:14 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:31:07 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:31:07 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:31:07 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:31:07 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:31:15 PM - DEBUG - auth.service - login with username: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:31:15 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:31:15 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:31:15 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:31:15 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:31:34 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:31:34 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:31:34 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:31:34 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:32:54 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:32:54 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:32:54 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:32:54 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:47:38 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:47:38 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:47:38 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:47:38 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:47:45 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:47:45 PM - DEBUG - auth.service - login with username: admin1 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:47:45 PM - ERROR - Failed to Login Invalid username or password (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:47:45 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:47:45 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:47:45 PM - INFO - Req from: admin2 (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:47:48 PM - DEBUG - auth.service - login with username: admin (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:47:48 PM - INFO - Req from: admin (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:47:49 PM - INFO - Req from: admin (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:47:49 PM - INFO - Req from: admin (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:47:49 PM - INFO - Req from: admin (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:47:49 PM - INFO - Req from: admin (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/16/2021, 1:47:49 PM - INFO - Req from: admin (sid: w5YBxON6Iox9Wziha3NZatCZfz5lvEUr)
-8/17/2021, 8:01:57 AM - INFO - Server is running on port: 3030 
-8/24/2021, 12:24:35 PM - INFO - Server is running on port: 3030 
-8/24/2021, 12:24:53 PM - DEBUG - auth.service - login with username: admin (sid: vzwPxCYxZCprjMAVrytA5izgJGyZn70b)
-8/24/2021, 12:24:53 PM - INFO - Req from: admin (sid: vzwPxCYxZCprjMAVrytA5izgJGyZn70b)
-8/24/2021, 12:24:53 PM - INFO - Req from: admin (sid: vzwPxCYxZCprjMAVrytA5izgJGyZn70b)
-8/24/2021, 12:25:05 PM - DEBUG - auth.service - login with username: admin (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:25:05 PM - INFO - Req from: admin (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:25:05 PM - INFO - Req from: admin (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:25:05 PM - INFO - Req from: admin (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:25:05 PM - INFO - Req from: admin (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:25:05 PM - INFO - Req from: admin (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:25:05 PM - INFO - Req from: admin (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:25:07 PM - INFO - Req from: admin (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:25:07 PM - INFO - Req from: admin (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:25:07 PM - INFO - Req from: admin (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:25:07 PM - INFO - Req from: admin (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:25:07 PM - INFO - Req from: admin (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:25:33 PM - INFO - Req from: admin (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:25:33 PM - INFO - Req from: admin (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:25:34 PM - INFO - Req from: admin (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:25:34 PM - INFO - Req from: admin (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:25:52 PM - DEBUG - auth.service - login with username: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:25:52 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:25:52 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:25:52 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:25:52 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:25:52 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:25:52 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:25:58 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:25:58 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:25:58 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:25:58 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:26:00 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:26:00 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:26:00 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:26:00 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:26:00 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:26:00 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:26:00 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:26:00 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:26:00 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:26:09 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:26:09 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:26:09 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:26:09 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:30:07 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:30:07 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:30:07 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:30:07 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:30:07 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:30:07 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:30:07 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:30:07 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:30:46 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:30:47 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:30:47 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:30:47 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:30:48 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:30:48 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:30:48 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:30:48 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:30:48 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:30:56 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:30:56 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:30:57 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:30:57 PM - INFO - Req from: admin2 (sid: Hif3RR4el03oKaWw2gmOmRhoh9c3cEMB)
-8/24/2021, 12:49:50 PM - INFO - Server is running on port: 3030 
-8/24/2021, 12:53:53 PM - INFO - Server is running on port: 3030 
-8/24/2021, 12:55:09 PM - INFO - Server is running on port: 3030 
-8/25/2021, 5:14:58 PM - INFO - Server is running on port: 3030 
-8/25/2021, 10:25:27 PM - INFO - Server is running on port: 3030 
-8/25/2021, 10:46:16 PM - DEBUG - auth.service - login with username: admin2 (sid: lNXzGqu0oIkbdWFKpLXkpE4caU0MtUpV)
-8/25/2021, 10:46:21 PM - INFO - Req from: admin2 (sid: lNXzGqu0oIkbdWFKpLXkpE4caU0MtUpV)
-8/25/2021, 10:46:21 PM - INFO - Req from: admin2 (sid: lNXzGqu0oIkbdWFKpLXkpE4caU0MtUpV)
-8/25/2021, 10:46:21 PM - INFO - Req from: admin2 (sid: lNXzGqu0oIkbdWFKpLXkpE4caU0MtUpV)
-8/25/2021, 10:46:21 PM - INFO - Req from: admin2 (sid: lNXzGqu0oIkbdWFKpLXkpE4caU0MtUpV)
-8/25/2021, 10:46:30 PM - INFO - Req from: admin2 (sid: lNXzGqu0oIkbdWFKpLXkpE4caU0MtUpV)
-8/25/2021, 10:46:30 PM - INFO - Req from: admin2 (sid: lNXzGqu0oIkbdWFKpLXkpE4caU0MtUpV)
-8/25/2021, 10:46:30 PM - INFO - Req from: admin2 (sid: lNXzGqu0oIkbdWFKpLXkpE4caU0MtUpV)
-8/25/2021, 10:46:30 PM - INFO - Req from: admin2 (sid: lNXzGqu0oIkbdWFKpLXkpE4caU0MtUpV)
-8/25/2021, 10:46:30 PM - INFO - Req from: admin2 (sid: lNXzGqu0oIkbdWFKpLXkpE4caU0MtUpV)
-8/25/2021, 10:52:45 PM - INFO - Server is running on port: 3030 
-8/25/2021, 10:54:14 PM - DEBUG - auth.service - login with username: admin2 (sid: zllam_LqIDsOa48zf0WU-FNmJAYlPvGD)
-8/25/2021, 10:54:19 PM - INFO - Req from: admin2 (sid: zllam_LqIDsOa48zf0WU-FNmJAYlPvGD)
-8/25/2021, 10:54:19 PM - INFO - Req from: admin2 (sid: zllam_LqIDsOa48zf0WU-FNmJAYlPvGD)
-8/25/2021, 10:54:19 PM - INFO - Req from: admin2 (sid: zllam_LqIDsOa48zf0WU-FNmJAYlPvGD)
-8/25/2021, 10:54:19 PM - INFO - Req from: admin2 (sid: zllam_LqIDsOa48zf0WU-FNmJAYlPvGD)
-8/25/2021, 10:54:21 PM - INFO - Req from: admin2 (sid: zllam_LqIDsOa48zf0WU-FNmJAYlPvGD)
-8/25/2021, 10:54:21 PM - INFO - Req from: admin2 (sid: zllam_LqIDsOa48zf0WU-FNmJAYlPvGD)
-8/25/2021, 10:54:21 PM - INFO - Req from: admin2 (sid: zllam_LqIDsOa48zf0WU-FNmJAYlPvGD)
-8/25/2021, 10:54:21 PM - INFO - Req from: admin2 (sid: zllam_LqIDsOa48zf0WU-FNmJAYlPvGD)
-8/25/2021, 10:54:21 PM - INFO - Req from: admin2 (sid: zllam_LqIDsOa48zf0WU-FNmJAYlPvGD)
-8/25/2021, 10:54:30 PM - INFO - Req from: admin2 (sid: zllam_LqIDsOa48zf0WU-FNmJAYlPvGD)
-8/25/2021, 10:54:30 PM - INFO - Req from: admin2 (sid: zllam_LqIDsOa48zf0WU-FNmJAYlPvGD)
-8/25/2021, 10:56:56 PM - INFO - Server is running on port: 3030 
-8/25/2021, 10:57:11 PM - DEBUG - auth.service - login with username: admin2 (sid: gMuUtF2Z1f4MEhWBnJsy_d7eFSKd7qyG)
-8/25/2021, 10:57:14 PM - INFO - Req from: admin2 (sid: gMuUtF2Z1f4MEhWBnJsy_d7eFSKd7qyG)
-8/25/2021, 10:57:14 PM - INFO - Req from: admin2 (sid: gMuUtF2Z1f4MEhWBnJsy_d7eFSKd7qyG)
-8/25/2021, 10:57:14 PM - INFO - Req from: admin2 (sid: gMuUtF2Z1f4MEhWBnJsy_d7eFSKd7qyG)
-8/25/2021, 10:57:14 PM - INFO - Req from: admin2 (sid: gMuUtF2Z1f4MEhWBnJsy_d7eFSKd7qyG)
-8/25/2021, 10:57:16 PM - INFO - Req from: admin2 (sid: gMuUtF2Z1f4MEhWBnJsy_d7eFSKd7qyG)
-8/25/2021, 10:57:16 PM - INFO - Req from: admin2 (sid: gMuUtF2Z1f4MEhWBnJsy_d7eFSKd7qyG)
-8/25/2021, 10:57:16 PM - INFO - Req from: admin2 (sid: gMuUtF2Z1f4MEhWBnJsy_d7eFSKd7qyG)
-8/25/2021, 10:57:16 PM - INFO - Req from: admin2 (sid: gMuUtF2Z1f4MEhWBnJsy_d7eFSKd7qyG)
-8/25/2021, 10:57:16 PM - INFO - Req from: admin2 (sid: gMuUtF2Z1f4MEhWBnJsy_d7eFSKd7qyG)
-8/25/2021, 10:57:27 PM - INFO - Req from: admin2 (sid: gMuUtF2Z1f4MEhWBnJsy_d7eFSKd7qyG)
-8/25/2021, 10:57:27 PM - INFO - Req from: admin2 (sid: gMuUtF2Z1f4MEhWBnJsy_d7eFSKd7qyG)
-8/25/2021, 10:58:02 PM - INFO - Req from: admin2 (sid: gMuUtF2Z1f4MEhWBnJsy_d7eFSKd7qyG)
-8/25/2021, 10:58:02 PM - INFO - Req from: admin2 (sid: gMuUtF2Z1f4MEhWBnJsy_d7eFSKd7qyG)
-8/25/2021, 10:58:02 PM - INFO - Req from: admin2 (sid: gMuUtF2Z1f4MEhWBnJsy_d7eFSKd7qyG)
-8/25/2021, 10:58:02 PM - INFO - Req from: admin2 (sid: gMuUtF2Z1f4MEhWBnJsy_d7eFSKd7qyG)
-8/25/2021, 10:58:06 PM - DEBUG - auth.service - login with username: admin2 (sid: gMuUtF2Z1f4MEhWBnJsy_d7eFSKd7qyG)
-8/25/2021, 10:58:06 PM - INFO - Req from: admin2 (sid: gMuUtF2Z1f4MEhWBnJsy_d7eFSKd7qyG)
-8/25/2021, 10:58:06 PM - INFO - Req from: admin2 (sid: gMuUtF2Z1f4MEhWBnJsy_d7eFSKd7qyG)
-8/25/2021, 10:58:06 PM - INFO - Req from: admin2 (sid: gMuUtF2Z1f4MEhWBnJsy_d7eFSKd7qyG)
-8/25/2021, 10:58:06 PM - INFO - Req from: admin2 (sid: gMuUtF2Z1f4MEhWBnJsy_d7eFSKd7qyG)
-8/25/2021, 10:58:06 PM - INFO - Req from: admin2 (sid: gMuUtF2Z1f4MEhWBnJsy_d7eFSKd7qyG)
-8/25/2021, 10:58:06 PM - INFO - Req from: admin2 (sid: gMuUtF2Z1f4MEhWBnJsy_d7eFSKd7qyG)
-8/25/2021, 10:58:13 PM - INFO - Req from: admin2 (sid: gMuUtF2Z1f4MEhWBnJsy_d7eFSKd7qyG)
-8/25/2021, 10:58:13 PM - INFO - Req from: admin2 (sid: gMuUtF2Z1f4MEhWBnJsy_d7eFSKd7qyG)
-8/25/2021, 10:58:13 PM - INFO - Req from: admin2 (sid: gMuUtF2Z1f4MEhWBnJsy_d7eFSKd7qyG)
-8/25/2021, 10:58:13 PM - INFO - Req from: admin2 (sid: gMuUtF2Z1f4MEhWBnJsy_d7eFSKd7qyG)
-8/25/2021, 10:58:13 PM - INFO - Req from: admin2 (sid: gMuUtF2Z1f4MEhWBnJsy_d7eFSKd7qyG)
-8/26/2021, 12:21:11 AM - DEBUG - auth.service - login with username: admin2 (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:21:11 AM - INFO - Req from: admin2 (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:21:11 AM - INFO - Req from: admin2 (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:21:11 AM - INFO - Req from: admin2 (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:21:11 AM - INFO - Req from: admin2 (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:21:11 AM - INFO - Req from: admin2 (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:21:11 AM - INFO - Req from: admin2 (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:21:18 AM - INFO - Req from: admin2 (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:21:18 AM - INFO - Req from: admin2 (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:21:18 AM - INFO - Req from: admin2 (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:21:18 AM - INFO - Req from: admin2 (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:21:18 AM - INFO - Req from: admin2 (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:21:56 AM - INFO - Req from: admin2 (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:22:21 AM - INFO - Req from: admin2 (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:22:21 AM - INFO - Req from: admin2 (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:22:21 AM - INFO - Req from: admin2 (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:22:21 AM - INFO - Req from: admin2 (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:22:49 AM - DEBUG - auth.service - login with username: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:22:49 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:22:49 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:22:49 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:22:49 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:22:49 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:22:49 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:22:57 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:22:57 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:22:57 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:22:57 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:22:57 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:22:57 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:22:57 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:22:57 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:22:57 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:23:32 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:23:32 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:23:32 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:23:32 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:23:34 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:23:34 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:23:34 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:23:34 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:23:39 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:23:39 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:23:39 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:23:39 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:23:39 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:23:46 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:23:46 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:23:46 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:23:46 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:23:49 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:23:49 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:23:49 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:23:49 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:23:49 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:23:49 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:23:49 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:23:49 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:23:49 AM - INFO - Req from: admin (sid: Q1Mrh8Ao3XUsx5HNS_e1brB7Vg_s37Gz)
-8/26/2021, 12:39:35 AM - INFO - Server is running on port: 3030 
-8/26/2021, 12:40:02 AM - INFO - Server is running on port: 3030 
-9/9/2021, 12:07:34 PM - INFO - Server is running on port: 3030 
-9/9/2021, 12:12:49 PM - INFO - Server is running on port: 3030 
-9/9/2021, 12:13:43 PM - INFO - Server is running on port: 3030 
-9/9/2021, 12:14:18 PM - DEBUG - auth.service - login with username: admin (sid: Dj7YqzykZab79vvcgxgfr9LIXlH05Xr3)
-9/9/2021, 12:14:18 PM - INFO - Req from: admin (sid: Dj7YqzykZab79vvcgxgfr9LIXlH05Xr3)
-9/9/2021, 12:14:18 PM - INFO - Req from: admin (sid: Dj7YqzykZab79vvcgxgfr9LIXlH05Xr3)
-9/9/2021, 12:14:18 PM - INFO - Req from: admin (sid: Dj7YqzykZab79vvcgxgfr9LIXlH05Xr3)
-9/9/2021, 12:14:18 PM - INFO - Req from: admin (sid: Dj7YqzykZab79vvcgxgfr9LIXlH05Xr3)
-9/9/2021, 12:14:18 PM - INFO - Req from: admin (sid: Dj7YqzykZab79vvcgxgfr9LIXlH05Xr3)
-9/9/2021, 12:14:18 PM - INFO - Req from: admin (sid: Dj7YqzykZab79vvcgxgfr9LIXlH05Xr3)
-9/9/2021, 12:17:03 PM - INFO - Server is running on port: 3030 
-9/9/2021, 12:17:13 PM - DEBUG - auth.service - login with username: admin (sid: 6F8dgwrBBd8VO89HIVC8_zpMV85Sw8_F)
-9/9/2021, 12:18:04 PM - INFO - Server is running on port: 3030 
-9/9/2021, 12:18:17 PM - DEBUG - auth.service - login with username: admin (sid: IAlkLdwjXMtN0gAQW4vCv5su-ghJPWUZ)
-9/9/2021, 12:21:18 PM - DEBUG - auth.service - login with username: admin (sid: IAlkLdwjXMtN0gAQW4vCv5su-ghJPWUZ)
-9/9/2021, 12:37:14 PM - INFO - Server is running on port: 3030 
-9/9/2021, 12:37:17 PM - DEBUG - auth.service - login with username: admin (sid: mhVMIlCZ2BnJx7Np41EPvNB8JKNSDH1p)
-9/9/2021, 12:38:57 PM - INFO - Server is running on port: 3030 
-9/9/2021, 12:39:04 PM - DEBUG - auth.service - login with username: admin (sid: hASSvABcK5Ll2B4J4Es904k8W12UC27u)
-9/9/2021, 12:39:24 PM - INFO - Server is running on port: 3030 
-9/9/2021, 12:39:29 PM - DEBUG - auth.service - login with username: admin (sid: I7BdQ8za7hken1YQ7LcWnbLEzwTkrtV0)
-9/9/2021, 12:45:45 PM - INFO - Server is running on port: 3030 
-9/9/2021, 12:46:08 PM - DEBUG - auth.service - login with username: admin (sid: AiKhpteRm1MSXUpndyVJZk0HzNUpFd7O)
-9/9/2021, 12:46:49 PM - INFO - Server is running on port: 3030 
-9/9/2021, 12:47:00 PM - DEBUG - auth.service - login with username: admin (sid: did2ESjQCDUnTw2QPDIoItd8Eyp6Aqi5)
-9/9/2021, 12:47:33 PM - DEBUG - auth.service - login with username: admin2 (sid: did2ESjQCDUnTw2QPDIoItd8Eyp6Aqi5)
-9/9/2021, 12:48:16 PM - INFO - Server is running on port: 3030 
-9/9/2021, 12:51:11 PM - ERROR - Failed to move piece on board | TypeError: Cannot read property 'gameBoard' of undefined (sid: nEYULBefHjZesqWfrl1cmzwkBz6YeEsm)
-9/9/2021, 12:51:25 PM - ERROR - Failed to move piece on board | TypeError: Cannot read property 'gameBoard' of undefined (sid: nEYULBefHjZesqWfrl1cmzwkBz6YeEsm)
-9/9/2021, 12:52:47 PM - INFO - Server is running on port: 3030 
-9/9/2021, 12:53:14 PM - DEBUG - auth.service - login with username: admin1 (sid: AS3xJX1_e8OxLSM23RNjRm17uhBeazcG)
-9/9/2021, 12:53:14 PM - ERROR - Failed to Login Invalid username or password (sid: AS3xJX1_e8OxLSM23RNjRm17uhBeazcG)
-9/9/2021, 12:53:19 PM - DEBUG - auth.service - login with username: admin (sid: AS3xJX1_e8OxLSM23RNjRm17uhBeazcG)
-9/9/2021, 12:53:25 PM - DEBUG - auth.service - login with username: admin2 (sid: AS3xJX1_e8OxLSM23RNjRm17uhBeazcG)
-9/9/2021, 12:56:09 PM - DEBUG - auth.service - login with username: admin2 (sid: AS3xJX1_e8OxLSM23RNjRm17uhBeazcG)
-9/9/2021, 12:59:05 PM - INFO - Server is running on port: 3030 
-9/9/2021, 12:59:19 PM - INFO - Server is running on port: 3030 
-9/9/2021, 12:59:39 PM - DEBUG - auth.service - login with username: admin2 (sid: pHRVDdQL4gKWqdzffIYI-bwjfciuahwH)
-9/9/2021, 12:59:46 PM - DEBUG - auth.service - login with username: admin (sid: pHRVDdQL4gKWqdzffIYI-bwjfciuahwH)
-9/9/2021, 1:03:48 PM - INFO - Server is running on port: 3030 
-9/9/2021, 1:07:13 PM - DEBUG - auth.service - login with username: admin (sid: z8wPOA3VHUiCj9-VDl634EuVNyfIvbha)
-9/9/2021, 1:07:29 PM - DEBUG - auth.service - login with username: admin2 (sid: z8wPOA3VHUiCj9-VDl634EuVNyfIvbha)
-9/9/2021, 1:14:14 PM - INFO - Server is running on port: 3030 
-9/9/2021, 1:16:37 PM - INFO - Server is running on port: 3030 
-9/9/2021, 1:16:50 PM - DEBUG - auth.service - login with username: admin2 (sid: cYdp0wkGmvycmep8Rl4tclvfTdTrpziS)
-9/9/2021, 1:17:01 PM - DEBUG - auth.service - login with username: admin (sid: cYdp0wkGmvycmep8Rl4tclvfTdTrpziS)
-9/9/2021, 1:19:23 PM - DEBUG - auth.service - login with username: admin (sid: cYdp0wkGmvycmep8Rl4tclvfTdTrpziS)
-9/9/2021, 1:19:45 PM - DEBUG - auth.service - login with username: admin2 (sid: cYdp0wkGmvycmep8Rl4tclvfTdTrpziS)
-9/9/2021, 1:21:54 PM - DEBUG - auth.service - login with username: admin (sid: cYdp0wkGmvycmep8Rl4tclvfTdTrpziS)
-9/9/2021, 1:23:06 PM - INFO - Server is running on port: 3030 
-9/9/2021, 1:38:54 PM - DEBUG - auth.service - login with username: admin (sid: G2Z86LUSkvDDqlpZDt-rqCUSLzvqkVx0)
-9/9/2021, 1:39:03 PM - DEBUG - auth.service - login with username: admin2 (sid: G2Z86LUSkvDDqlpZDt-rqCUSLzvqkVx0)
-9/9/2021, 2:23:01 PM - INFO - Server is running on port: 3030 
-9/9/2021, 3:59:23 PM - INFO - Server is running on port: 3030 
-9/9/2021, 4:02:31 PM - DEBUG - auth.service - login with username: admin2 (sid: X-i7uqxfR13jZMC4LqQHMR_6BD-X2wLj)
-9/9/2021, 4:02:55 PM - DEBUG - auth.service - login with username: admin (sid: X-i7uqxfR13jZMC4LqQHMR_6BD-X2wLj)
-9/9/2021, 4:21:32 PM - DEBUG - auth.service - login with username: admin (sid: X-i7uqxfR13jZMC4LqQHMR_6BD-X2wLj)
-9/9/2021, 4:44:32 PM - DEBUG - auth.service - login with username: admin (sid: X-i7uqxfR13jZMC4LqQHMR_6BD-X2wLj)
-9/9/2021, 4:50:20 PM - DEBUG - auth.service - login with username: admin (sid: X-i7uqxfR13jZMC4LqQHMR_6BD-X2wLj)
-9/9/2021, 4:59:36 PM - ERROR - Failed to move piece on board | TypeError: Cannot read property 'gameBoard' of undefined (sid: X-i7uqxfR13jZMC4LqQHMR_6BD-X2wLj)
-9/9/2021, 4:59:37 PM - ERROR - Failed to move piece on board | TypeError: Cannot read property 'gameBoard' of undefined (sid: X-i7uqxfR13jZMC4LqQHMR_6BD-X2wLj)
-9/9/2021, 4:59:39 PM - ERROR - Failed to move piece on board | TypeError: Cannot read property 'gameBoard' of undefined (sid: X-i7uqxfR13jZMC4LqQHMR_6BD-X2wLj)
-9/9/2021, 9:23:49 PM - INFO - Server is running on port: 3030 
-9/9/2021, 9:33:17 PM - DEBUG - auth.service - login with username: admin (sid: DffMze-e8GsrptXaBmZVRwNLLMAQallm)
-9/9/2021, 9:34:04 PM - DEBUG - auth.service - login with username: admin2 (sid: DffMze-e8GsrptXaBmZVRwNLLMAQallm)
-9/9/2021, 11:01:11 PM - INFO - Server is running on port: 3030 
-9/9/2021, 11:02:19 PM - DEBUG - auth.service - login with username: admin (sid: OrEqNWhfHqUJEmPapZqBH4PrBuk6YX6r)
-9/9/2021, 11:30:06 PM - INFO - Server is running on port: 3030 
-9/9/2021, 11:32:06 PM - INFO - Server is running on port: 3030 
-9/9/2021, 11:32:06 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: 7oOh6hAutcwKOnpG_Hv92SDrcLNHDS96)
-9/9/2021, 11:32:06 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: V-4gscygZQjdb_G3ENmVw6AJXmhnfcKJ)
-9/9/2021, 11:32:23 PM - INFO - Server is running on port: 3030 
-9/9/2021, 11:33:58 PM - DEBUG - auth.service - login with username: admin (sid: mmzVEYydVmiMQP5QXpEuhdH2xIxT-BhL)
-9/9/2021, 11:34:08 PM - DEBUG - auth.service - login with username: admin2 (sid: mmzVEYydVmiMQP5QXpEuhdH2xIxT-BhL)
-9/9/2021, 11:35:19 PM - ERROR - Failed to move piece on board | TypeError: Cannot set property '#<Object>' of undefined (sid: mmzVEYydVmiMQP5QXpEuhdH2xIxT-BhL)
-9/9/2021, 11:36:39 PM - INFO - Server is running on port: 3030 
-9/9/2021, 11:36:39 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: dSpls76_jtaQb9ngRdFtPrs5aOROp1rj)
-9/9/2021, 11:36:39 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: IyxPrZ2V9UXSYna42zfuK0h_EsHgYOMu)
-9/9/2021, 11:36:46 PM - INFO - Server is running on port: 3030 
-9/9/2021, 11:37:48 PM - DEBUG - auth.service - login with username: admin2 (sid: IiEEXblS3HfB3uO3jrFKGRUx0dR1CDhD)
-9/9/2021, 11:37:51 PM - DEBUG - auth.service - login with username: admin (sid: IiEEXblS3HfB3uO3jrFKGRUx0dR1CDhD)
-9/9/2021, 11:38:21 PM - ERROR - Failed to move piece on board | TypeError: game.whitePlayer.user is not iterable (sid: IiEEXblS3HfB3uO3jrFKGRUx0dR1CDhD)
-9/9/2021, 11:39:49 PM - INFO - Server is running on port: 3030 
-9/9/2021, 11:39:49 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: nHzq3uBPb_204BdLlnF33vH5hPhYsKRh)
-9/9/2021, 11:39:49 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: 7PBCdx4NY25DqYkju22iRgSNVEUlrQGF)
-9/9/2021, 11:42:19 PM - INFO - Server is running on port: 3030 
-9/9/2021, 11:42:43 PM - DEBUG - auth.service - login with username: admin (sid: lo-diHShM2eHeFgKvi4miDhvICnxyYIG)
-9/9/2021, 11:42:47 PM - DEBUG - auth.service - login with username: admin2 (sid: lo-diHShM2eHeFgKvi4miDhvICnxyYIG)
-9/9/2021, 11:44:16 PM - INFO - Server is running on port: 3030 
-9/9/2021, 11:44:16 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: i72CuEqx2vZ_lPcJMZrkQD1tl1UpMt7z)
-9/9/2021, 11:44:18 PM - INFO - Server is running on port: 3030 
+9/12/2021, 12:19:18 PM - INFO - Server is running on port: 3030 
+9/12/2021, 12:20:12 PM - DEBUG - auth.service - login with username: admin (sid: HoES0aKD_fhNERv0xV_Ta4o-AKNtSrcV)
+9/12/2021, 12:57:56 PM - INFO - Server is running on port: 3030 
+9/12/2021, 12:57:56 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: 3tlt2te6y86pzMNW9i0GA9pssGgZMxNc)
+9/12/2021, 12:58:07 PM - INFO - Server is running on port: 3030 
+9/12/2021, 12:58:44 PM - INFO - Server is running on port: 3030 
+9/12/2021, 12:59:15 PM - INFO - Server is running on port: 3030 
+9/12/2021, 12:59:34 PM - INFO - Server is running on port: 3030 
+9/12/2021, 12:59:44 PM - INFO - Server is running on port: 3030 
+9/12/2021, 12:59:48 PM - INFO - Server is running on port: 3030 
+9/12/2021, 12:59:51 PM - INFO - Server is running on port: 3030 
+9/12/2021, 1:00:02 PM - INFO - Server is running on port: 3030 
+9/12/2021, 1:00:08 PM - INFO - Server is running on port: 3030 
+9/12/2021, 1:00:53 PM - INFO - Server is running on port: 3030 
+9/12/2021, 1:01:06 PM - INFO - Server is running on port: 3030 
+9/12/2021, 1:02:07 PM - INFO - Server is running on port: 3030 
+9/12/2021, 1:03:59 PM - INFO - Server is running on port: 3030 
+9/12/2021, 1:04:06 PM - DEBUG - auth.service - login with username: admin (sid: VkWhWdyznwpV0XLgPtd0skUU6g2ZMqPl)
+9/12/2021, 1:04:07 PM - ERROR - Failed to Login Invalid username or password (sid: VkWhWdyznwpV0XLgPtd0skUU6g2ZMqPl)
+9/12/2021, 1:04:41 PM - INFO - Server is running on port: 3030 
+9/12/2021, 1:04:44 PM - DEBUG - auth.service - login with username: admin (sid: _PHljr68EKo9LF09KD3Gij-gj9XG-H17)
+9/12/2021, 1:04:44 PM - ERROR - Failed to Login Invalid username or password (sid: _PHljr68EKo9LF09KD3Gij-gj9XG-H17)
+9/12/2021, 1:05:57 PM - INFO - Server is running on port: 3030 
+9/12/2021, 1:05:59 PM - DEBUG - auth.service - login with username: admin (sid: BU4U38qaK97WWt8dhaFHHZgK807ttgrt)
+9/12/2021, 1:05:59 PM - ERROR - Failed to Login Invalid username or password (sid: BU4U38qaK97WWt8dhaFHHZgK807ttgrt)
+9/12/2021, 1:07:45 PM - INFO - Server is running on port: 3030 
+9/12/2021, 1:07:50 PM - DEBUG - auth.service - login with username: admin (sid: bsrm92R58Cu_24XYGKLVi8KtoJ92fnJ7)
+9/12/2021, 1:07:50 PM - ERROR - Failed to Login Invalid username or password (sid: bsrm92R58Cu_24XYGKLVi8KtoJ92fnJ7)
+9/12/2021, 1:08:04 PM - INFO - Server is running on port: 3030 
+9/12/2021, 6:28:21 PM - INFO - Server is running on port: 3030 
+9/12/2021, 6:28:36 PM - DEBUG - auth.service - login with username: admin (sid: 6PgnUbnuDovnBvlj9xVCwcDEXuKFJGG-)
+9/12/2021, 6:28:38 PM - ERROR - Failed to Login Invalid username or password (sid: 6PgnUbnuDovnBvlj9xVCwcDEXuKFJGG-)
+9/12/2021, 9:03:55 PM - INFO - Server is running on port: 3030 
+9/12/2021, 9:07:44 PM - INFO - Server is running on port: 3030 
+9/12/2021, 9:35:02 PM - INFO - Server is running on port: 3030 
+9/13/2021, 12:00:01 AM - INFO - Server is running on port: 3030 
+9/13/2021, 12:00:34 AM - DEBUG - auth.service - login with username: admin (sid: Egnbl2Sni0O0xd9RqUvZBJryhQclfJgW)
+9/13/2021, 12:01:04 AM - INFO - Server is running on port: 3030 
+9/13/2021, 12:07:54 AM - INFO - Server is running on port: 3030 
+9/13/2021, 12:08:42 AM - INFO - Server is running on port: 3030 
+9/13/2021, 12:12:10 AM - INFO - Server is running on port: 3030 
+9/13/2021, 12:12:34 AM - DEBUG - auth.service - login with username: admin2 (sid: 0bSZngoYYyj2tB4HBsXPqmg7O3dk8QDI)
+9/13/2021, 12:14:47 AM - INFO - Server is running on port: 3030 
+9/13/2021, 12:15:59 AM - INFO - Server is running on port: 3030 
+9/13/2021, 12:15:59 AM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: 6-T03xVq8EQ0IHELhsEVixzdjmM07cgn)
+9/13/2021, 12:15:59 AM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: cQMtaKJd3Cc0j8t0PuuDVqk2gYEk2k1W)
+9/13/2021, 12:16:08 AM - INFO - Server is running on port: 3030 
+9/13/2021, 12:16:19 AM - DEBUG - auth.service - login with username: admin2 (sid: X94OL5w101EtpYLKGV26Zc07u3ngtGeG)
+9/13/2021, 12:16:26 AM - DEBUG - auth.service - login with username: admin (sid: X94OL5w101EtpYLKGV26Zc07u3ngtGeG)
+9/13/2021, 12:17:17 AM - INFO - Server is running on port: 3030 
+9/13/2021, 12:17:31 AM - DEBUG - auth.service - login with username: admin (sid: Gj2AlHATosnrgriHhrGUcNiQGoP_Zz1a)
+9/13/2021, 12:17:35 AM - DEBUG - auth.service - login with username: admin2 (sid: Gj2AlHATosnrgriHhrGUcNiQGoP_Zz1a)
+9/13/2021, 12:18:53 AM - INFO - Server is running on port: 3030 
+9/13/2021, 12:18:53 AM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: 7M5vHQz38OI-kFKsaZwwSXGprior30gR)
+9/13/2021, 12:18:59 AM - INFO - Server is running on port: 3030 
+9/13/2021, 12:19:16 AM - DEBUG - auth.service - login with username: admin2 (sid: tOajnjyxfd4SGk82vXUn6DvUchaYRgM9)
+9/13/2021, 12:19:21 AM - DEBUG - auth.service - login with username: admin (sid: tOajnjyxfd4SGk82vXUn6DvUchaYRgM9)
+9/13/2021, 1:08:38 AM - INFO - Server is running on port: 3030 
+9/13/2021, 1:08:38 AM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: trxULjA0ED6r6DHEez9HOLGI3Pir4A1k)
+9/13/2021, 1:10:00 AM - INFO - Server is running on port: 3030 
+9/13/2021, 1:14:42 AM - INFO - Server is running on port: 3030 
+9/13/2021, 1:14:49 AM - DEBUG - auth.service - login with username: admin (sid: cIwXfmZQ9CfxyfqkpG3ZRiWxNlQeDy-l)
+9/13/2021, 1:14:51 AM - ERROR - Failed to Login Invalid username or password (sid: cIwXfmZQ9CfxyfqkpG3ZRiWxNlQeDy-l)
+9/13/2021, 1:15:45 AM - INFO - Server is running on port: 3030 
+9/13/2021, 1:15:47 AM - DEBUG - auth.service - login with username: admin (sid: wlkLmmOidVaifYBXpnNT9DzKBBrAxDiG)
+9/13/2021, 1:15:48 AM - ERROR - Failed to Login Invalid username or password (sid: wlkLmmOidVaifYBXpnNT9DzKBBrAxDiG)
+9/13/2021, 1:15:56 AM - INFO - Server is running on port: 3030 
+9/13/2021, 1:16:02 AM - INFO - Server is running on port: 3030 
+9/13/2021, 1:16:15 AM - INFO - Server is running on port: 3030 
+9/13/2021, 1:17:10 AM - INFO - Server is running on port: 3030 
+9/13/2021, 1:17:23 AM - INFO - Server is running on port: 3030 
+9/13/2021, 1:17:37 AM - INFO - Server is running on port: 3030 
+9/13/2021, 1:17:48 AM - INFO - Server is running on port: 3030 
+9/13/2021, 1:18:24 AM - INFO - Server is running on port: 3030 
+9/13/2021, 1:19:26 AM - INFO - Server is running on port: 3030 
+9/13/2021, 1:20:32 AM - INFO - Server is running on port: 3030 
+9/13/2021, 1:22:44 AM - INFO - Server is running on port: 3030 
+9/13/2021, 1:22:55 AM - INFO - Server is running on port: 3030 
+9/13/2021, 1:23:00 AM - INFO - Server is running on port: 3030 
+9/13/2021, 1:23:40 AM - INFO - Server is running on port: 3030 
+9/13/2021, 1:24:00 AM - INFO - Server is running on port: 3030 
+9/13/2021, 1:24:08 AM - DEBUG - auth.service - login with username: admin (sid: BNcLwZnT9EsRH5RTPmRXxKZ8VKjDoYV1)
+9/13/2021, 1:24:09 AM - ERROR - Failed to Login Invalid username or password (sid: BNcLwZnT9EsRH5RTPmRXxKZ8VKjDoYV1)
+9/13/2021, 1:24:27 AM - INFO - Server is running on port: 3030 
+9/13/2021, 1:24:31 AM - DEBUG - auth.service - login with username: admin (sid: 6fNOzdvUmcXMvH-Az3rengEo2RowhtXT)
+9/13/2021, 1:24:32 AM - ERROR - Failed to Login Invalid username or password (sid: 6fNOzdvUmcXMvH-Az3rengEo2RowhtXT)
+9/13/2021, 1:24:55 AM - INFO - Server is running on port: 3030 
+9/13/2021, 1:25:11 AM - DEBUG - auth.service - login with username: admin (sid: niQtBn1ncROvuQKZl3n1258jZ-3mboam)
+9/13/2021, 1:25:13 AM - ERROR - Failed to Login Invalid username or password (sid: niQtBn1ncROvuQKZl3n1258jZ-3mboam)
+9/13/2021, 1:26:55 AM - INFO - Server is running on port: 3030 
+9/13/2021, 1:27:01 AM - INFO - Server is running on port: 3030 
+9/13/2021, 1:27:09 AM - DEBUG - auth.service - login with username: admin (sid: FrQioxksPTbPceya2LuviZ5RP9QfA1Va)
+9/13/2021, 1:27:10 AM - ERROR - Failed to Login ReferenceError: saltRounds is not defined (sid: FrQioxksPTbPceya2LuviZ5RP9QfA1Va)
+9/13/2021, 1:27:40 AM - INFO - Server is running on port: 3030 
+9/13/2021, 1:27:54 AM - DEBUG - auth.service - login with username: admin (sid: AAdJ9Fjg8EtFI5wDOfYbCRh8vXSg_Qat)
+9/13/2021, 1:27:55 AM - ERROR - Failed to Login Invalid username or password (sid: AAdJ9Fjg8EtFI5wDOfYbCRh8vXSg_Qat)
+9/13/2021, 1:29:33 AM - INFO - Server is running on port: 3030 
+9/13/2021, 1:29:50 AM - DEBUG - auth.service - login with username: admin (sid: 7AbcXJanhvtDX_oDynQqkVjhkDAFwgIn)
+9/13/2021, 1:31:13 AM - INFO - Server is running on port: 3030 
+9/13/2021, 1:34:32 AM - INFO - Server is running on port: 3030 
+9/13/2021, 1:35:15 AM - INFO - Server is running on port: 3030 
+9/13/2021, 1:35:36 AM - INFO - Server is running on port: 3030 
+9/13/2021, 1:36:45 AM - INFO - Server is running on port: 3030 
+9/13/2021, 1:37:13 AM - DEBUG - auth.service - login with username: admin (sid: z6ndGnGeG7vyRe0egnPGXgwB6VvsAO3B)
+9/13/2021, 1:37:53 AM - DEBUG - auth.service - login with username: admin2 (sid: z6ndGnGeG7vyRe0egnPGXgwB6VvsAO3B)
+9/13/2021, 1:38:11 AM - DEBUG - auth.service - login with username: admin (sid: z6ndGnGeG7vyRe0egnPGXgwB6VvsAO3B)
+9/13/2021, 1:38:21 AM - ERROR - while finding user 008 | TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters (sid: z6ndGnGeG7vyRe0egnPGXgwB6VvsAO3B)
+9/13/2021, 1:38:21 AM - ERROR - Failed to move piece on board | TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters (sid: z6ndGnGeG7vyRe0egnPGXgwB6VvsAO3B)
+9/13/2021, 1:39:42 AM - INFO - Server is running on port: 3030 
+9/13/2021, 1:39:43 AM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: QHEqzAIA1veSVl6J8CaBIpdLdEtkAG9g)
+9/13/2021, 1:39:43 AM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: FKlrp5FdkBnkULvCy_Y2YXdi8D7MMflX)
+9/13/2021, 1:39:46 AM - INFO - Server is running on port: 3030 
+9/13/2021, 1:40:04 AM - DEBUG - auth.service - login with username: admin (sid: ruMPoqSIJs7eB4lOFfmYgNNeAW-W8_II)
+9/13/2021, 1:40:14 AM - DEBUG - auth.service - login with username: admin2 (sid: ruMPoqSIJs7eB4lOFfmYgNNeAW-W8_II)
+9/13/2021, 1:40:30 AM - ERROR - while finding user 008 | TypeError: Cannot convert undefined or null to object (sid: ruMPoqSIJs7eB4lOFfmYgNNeAW-W8_II)
+9/13/2021, 1:40:30 AM - ERROR - Failed to move piece on board | TypeError: Cannot convert undefined or null to object (sid: ruMPoqSIJs7eB4lOFfmYgNNeAW-W8_II)
+9/13/2021, 1:41:55 AM - INFO - Server is running on port: 3030 
+9/13/2021, 1:41:55 AM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: qqBAwOmrwLOM3yeA4aNjpv3if9UqGXPR)
+9/13/2021, 1:41:59 AM - INFO - Server is running on port: 3030 
+9/13/2021, 1:42:31 AM - DEBUG - auth.service - login with username: admin2 (sid: _TnC41iXuXnbxBrMklcg3_cvuul484O3)
+9/13/2021, 1:42:38 AM - DEBUG - auth.service - login with username: admin (sid: _TnC41iXuXnbxBrMklcg3_cvuul484O3)
+9/13/2021, 1:42:59 AM - ERROR - while finding user 008 | TypeError: Cannot convert undefined or null to object (sid: _TnC41iXuXnbxBrMklcg3_cvuul484O3)
+9/13/2021, 1:42:59 AM - ERROR - Failed to move piece on board | TypeError: Cannot convert undefined or null to object (sid: _TnC41iXuXnbxBrMklcg3_cvuul484O3)
+9/13/2021, 1:44:32 AM - INFO - Server is running on port: 3030 
+9/13/2021, 1:44:33 AM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: UwHBVzcY_NVqFDX0N8opFsPGAP99MVM6)
+9/13/2021, 1:44:47 AM - INFO - Server is running on port: 3030 
+9/13/2021, 1:45:29 AM - DEBUG - auth.service - login with username: admin (sid: fGlEYV-AfPmOHLIKIzU2-LgxbfCHlHG3)
+9/13/2021, 1:45:35 AM - DEBUG - auth.service - login with username: admin2 (sid: fGlEYV-AfPmOHLIKIzU2-LgxbfCHlHG3)
+9/13/2021, 1:45:54 AM - ERROR - while finding user 008 | TypeError: Cannot convert undefined or null to object (sid: fGlEYV-AfPmOHLIKIzU2-LgxbfCHlHG3)
+9/13/2021, 1:45:54 AM - ERROR - Failed to move piece on board | TypeError: Cannot convert undefined or null to object (sid: fGlEYV-AfPmOHLIKIzU2-LgxbfCHlHG3)
+9/13/2021, 1:47:04 AM - INFO - Server is running on port: 3030 
+9/13/2021, 8:14:20 AM - INFO - Server is running on port: 3030 
+9/13/2021, 8:14:28 AM - INFO - Server is running on port: 3030 
+9/13/2021, 12:38:26 PM - INFO - Server is running on port: 3030 
+9/13/2021, 12:54:28 PM - INFO - Server is running on port: 3030 
+9/13/2021, 12:55:57 PM - DEBUG - auth.service - signup with username: Jonni, fullname:  Bravo, email: JonniBravo@gmail.com (sid: G0oXW9fS75yfwJYKH0Qu0pD7cgbbUY2G)
+9/13/2021, 12:55:57 PM - ERROR - Failed to signup email ,fullname, username and password are required! (sid: G0oXW9fS75yfwJYKH0Qu0pD7cgbbUY2G)
+9/13/2021, 12:58:44 PM - DEBUG - auth.service - signup with username: Jonni, fullname:  Bravo, email: JonniBravo@gmail.com (sid: G0oXW9fS75yfwJYKH0Qu0pD7cgbbUY2G)
+9/13/2021, 12:58:44 PM - ERROR - Failed to signup email ,fullname, username and password are required! (sid: G0oXW9fS75yfwJYKH0Qu0pD7cgbbUY2G)
+9/13/2021, 1:00:16 PM - DEBUG - auth.service - signup with username: Jonni, fullname:  Bravo, email: JonniBravo@gmail.com (sid: G0oXW9fS75yfwJYKH0Qu0pD7cgbbUY2G)
+9/13/2021, 1:00:16 PM - ERROR - Failed to signup email ,fullname, username and password are required! (sid: G0oXW9fS75yfwJYKH0Qu0pD7cgbbUY2G)
+9/13/2021, 1:04:33 PM - DEBUG - auth.service - signup with username: Jonni, fullname:  Bravo, email: JonniBravo@gmail.com (sid: G0oXW9fS75yfwJYKH0Qu0pD7cgbbUY2G)
+9/13/2021, 1:04:33 PM - ERROR - Failed to signup email ,fullname, username and password are required! (sid: G0oXW9fS75yfwJYKH0Qu0pD7cgbbUY2G)
+9/13/2021, 1:04:58 PM - DEBUG - auth.service - signup with username: Jonni, fullname: jonni bacs, email: dsfa#@gsa2.com (sid: G0oXW9fS75yfwJYKH0Qu0pD7cgbbUY2G)
+9/13/2021, 1:05:00 PM - DEBUG - auth.route - new account created: {"_id":"1pURxx","username":"Jonni","password":"$2b$10$NDiw4t4a6SAmS8jcsuJJj.haCu.8lvdeGQ4RDdveXJ1nrOqufZVOK","lastName":"bacs","email":"dsfa#@gsa2.com","game_played":0,"avatar":"","followers":[],"last_online":0,"joined":1631527498,"status":"regular","win":0,"lose":0,"draw":0,"curr_gameId":"","game_history":[]} (sid: G0oXW9fS75yfwJYKH0Qu0pD7cgbbUY2G)
+9/13/2021, 1:05:00 PM - DEBUG - auth.service - login with username: Jonni (sid: G0oXW9fS75yfwJYKH0Qu0pD7cgbbUY2G)
+9/13/2021, 1:05:00 PM - ERROR - Failed to signup Invalid username or password (sid: G0oXW9fS75yfwJYKH0Qu0pD7cgbbUY2G)
+9/13/2021, 1:09:45 PM - DEBUG - auth.service - login with username: admin (sid: G0oXW9fS75yfwJYKH0Qu0pD7cgbbUY2G)
+9/13/2021, 1:09:50 PM - DEBUG - auth.service - login with username: admin2 (sid: G0oXW9fS75yfwJYKH0Qu0pD7cgbbUY2G)
+9/13/2021, 1:10:51 PM - ERROR - cannot update user 008 | ReferenceError: Cannot access 'user' before initialization (sid: G0oXW9fS75yfwJYKH0Qu0pD7cgbbUY2G)
+9/13/2021, 1:10:51 PM - ERROR - Failed to move piece on board | ReferenceError: Cannot access 'user' before initialization (sid: G0oXW9fS75yfwJYKH0Qu0pD7cgbbUY2G)
+9/13/2021, 1:33:49 PM - INFO - Server is running on port: 3030 
+9/13/2021, 1:34:03 PM - INFO - Server is running on port: 3030 
+9/13/2021, 1:34:25 PM - INFO - Server is running on port: 3030 
+9/13/2021, 1:34:34 PM - INFO - Server is running on port: 3030 
+9/13/2021, 1:34:37 PM - INFO - Server is running on port: 3030 
+9/13/2021, 1:38:43 PM - INFO - Server is running on port: 3030 
+9/13/2021, 1:39:28 PM - DEBUG - auth.service - signup with username: Jonni, fullname: Jonni Bravo, email: jonnibravo@gmail.com (sid: xuBkK5_4JnUxrihDFegwCJI6p0v2_Qkt)
+9/13/2021, 1:39:29 PM - DEBUG - auth.route - new account created: {"_id":"JYgbej","username":"Jonni","password":"$2b$10$kT0Dk7pkQUpdSM.TG44Cae0SR445qk4Vg43VVlbF4m7wybJcWUGAq","lastName":"Bravo","email":"jonnibravo@gmail.com","game_played":0,"avatar":"","followers":[],"last_online":0,"joined":1631529568,"status":"regular","win":0,"lose":0,"draw":0,"curr_gameId":"","game_history":[]} (sid: xuBkK5_4JnUxrihDFegwCJI6p0v2_Qkt)
+9/13/2021, 1:39:29 PM - DEBUG - auth.service - login with username: Jonni (sid: xuBkK5_4JnUxrihDFegwCJI6p0v2_Qkt)
+9/13/2021, 1:39:29 PM - ERROR - Failed to signup Invalid username or password (sid: xuBkK5_4JnUxrihDFegwCJI6p0v2_Qkt)
+9/13/2021, 1:40:15 PM - INFO - Server is running on port: 3030 
+9/13/2021, 1:41:17 PM - INFO - Server is running on port: 3030 
+9/13/2021, 1:41:45 PM - DEBUG - auth.service - signup with username: Jonni, fullname: jonni cobi, email: asdf@gmax.doc (sid: U60zAZRo4BHtUu5OhXq1jXstzGdviOqz)
+9/13/2021, 1:41:47 PM - DEBUG - auth.route - new account created: {"_id":"6Sj8Uh","username":"Jonni","password":"$2b$10$3qkhl4bV8ll823biVei3p.T07vnsaJwYGyNUYF1py4wUkfB23jqH.","lastName":"cobi","email":"asdf@gmax.doc","game_played":0,"avatar":"","followers":[],"last_online":0,"joined":1631529705,"status":"regular","win":0,"lose":0,"draw":0,"curr_gameId":"","game_history":[]} (sid: U60zAZRo4BHtUu5OhXq1jXstzGdviOqz)
+9/13/2021, 1:41:47 PM - DEBUG - auth.service - login with username: Jonni, 12345 (sid: U60zAZRo4BHtUu5OhXq1jXstzGdviOqz)
+9/13/2021, 1:41:47 PM - DEBUG - auth.service - user: undefined (sid: U60zAZRo4BHtUu5OhXq1jXstzGdviOqz)
+9/13/2021, 1:41:47 PM - ERROR - Failed to signup Invalid username or password (sid: U60zAZRo4BHtUu5OhXq1jXstzGdviOqz)
+9/13/2021, 1:44:23 PM - INFO - Server is running on port: 3030 
+9/13/2021, 1:44:56 PM - DEBUG - auth.service - signup with username: Jonni, fullname: Jonni Bravo, email: jonnibravo@gmail.com (sid: FLo109CH0tZ9qG0otL09w-rYfWCkm04r)
+9/13/2021, 1:44:57 PM - DEBUG - auth.route - new account created: {"_id":"AbGeRH","username":"Jonni","password":"$2b$10$UKGI75dmXmjg2ISbXfbre.qCGHYilMX/UcY/7lHGXayrDmY2t3fm.","lastName":"Bravo","email":"jonnibravo@gmail.com","game_played":0,"avatar":"","followers":[],"last_online":0,"joined":1631529896,"status":"regular","win":0,"lose":0,"draw":0,"curr_gameId":"","game_history":[]} (sid: FLo109CH0tZ9qG0otL09w-rYfWCkm04r)
+9/13/2021, 1:44:57 PM - DEBUG - auth.service - login with username: Jonni, 12345 (sid: FLo109CH0tZ9qG0otL09w-rYfWCkm04r)
+9/13/2021, 1:44:57 PM - DEBUG - auth.service - user: [object Object] (sid: FLo109CH0tZ9qG0otL09w-rYfWCkm04r)
+9/13/2021, 1:45:36 PM - INFO - Server is running on port: 3030 
+9/13/2021, 1:46:27 PM - DEBUG - auth.service - login with username: Jonni (sid: JxWGra_J336UkiRwbumLS2mSEYVrNnIb)
+9/13/2021, 1:48:44 PM - INFO - Server is running on port: 3030 
+9/13/2021, 1:49:44 PM - DEBUG - auth.service - signup with username: Jonni, fullname: Jonni Bravo, email: jonnibravo@gmail.com (sid: -HN2e5MAgRSdWSK8yHwTYS8oyFfo_rnL)
+9/13/2021, 1:49:46 PM - DEBUG - auth.route - new account created: {"_id":"UKkzj7","username":"Jonni","password":"$2b$10$raD9X.8v4lNdlhRceLJlO./sM/OSSMJ6FJ9UYBxeN8miNslcXFpo6","name":"Jonni","lastName":"Bravo","email":"jonnibravo@gmail.com","game_played":0,"avatar":"","followers":[],"last_online":0,"joined":1631530184,"status":"regular","win":0,"lose":0,"draw":0,"curr_gameId":"","game_history":[]} (sid: -HN2e5MAgRSdWSK8yHwTYS8oyFfo_rnL)
+9/13/2021, 1:49:46 PM - DEBUG - auth.service - login with username: Jonni (sid: -HN2e5MAgRSdWSK8yHwTYS8oyFfo_rnL)
+9/13/2021, 2:01:16 PM - DEBUG - auth.service - login with username: admin (sid: -HN2e5MAgRSdWSK8yHwTYS8oyFfo_rnL)
+9/13/2021, 2:01:24 PM - ERROR - cannot update user 007 | ReferenceError: Cannot access 'user' before initialization (sid: -HN2e5MAgRSdWSK8yHwTYS8oyFfo_rnL)
+9/13/2021, 2:01:24 PM - ERROR - Failed to update board | ReferenceError: Cannot access 'user' before initialization (sid: -HN2e5MAgRSdWSK8yHwTYS8oyFfo_rnL)
+9/13/2021, 2:09:32 PM - ERROR - cannot update user 007 | ReferenceError: Cannot access 'user' before initialization (sid: -HN2e5MAgRSdWSK8yHwTYS8oyFfo_rnL)
+9/13/2021, 2:09:32 PM - ERROR - Failed to update board | ReferenceError: Cannot access 'user' before initialization (sid: -HN2e5MAgRSdWSK8yHwTYS8oyFfo_rnL)
+9/13/2021, 2:53:31 PM - ERROR - cannot update user UKkzj7 | ReferenceError: Cannot access 'user' before initialization (sid: -HN2e5MAgRSdWSK8yHwTYS8oyFfo_rnL)
+9/13/2021, 2:53:31 PM - ERROR - Failed to update board | ReferenceError: Cannot access 'user' before initialization (sid: -HN2e5MAgRSdWSK8yHwTYS8oyFfo_rnL)
+9/13/2021, 4:50:35 PM - ERROR - cannot update user UKkzj7 | ReferenceError: Cannot access 'user' before initialization (sid: -HN2e5MAgRSdWSK8yHwTYS8oyFfo_rnL)
+9/13/2021, 4:50:35 PM - ERROR - Failed to update board | ReferenceError: Cannot access 'user' before initialization (sid: -HN2e5MAgRSdWSK8yHwTYS8oyFfo_rnL)
+9/13/2021, 4:50:37 PM - ERROR - cannot update user UKkzj7 | ReferenceError: Cannot access 'user' before initialization (sid: -HN2e5MAgRSdWSK8yHwTYS8oyFfo_rnL)
+9/13/2021, 4:50:37 PM - ERROR - Failed to update board | ReferenceError: Cannot access 'user' before initialization (sid: -HN2e5MAgRSdWSK8yHwTYS8oyFfo_rnL)
+9/13/2021, 4:50:39 PM - ERROR - cannot update user UKkzj7 | ReferenceError: Cannot access 'user' before initialization (sid: -HN2e5MAgRSdWSK8yHwTYS8oyFfo_rnL)
+9/13/2021, 4:50:39 PM - ERROR - Failed to update board | ReferenceError: Cannot access 'user' before initialization (sid: -HN2e5MAgRSdWSK8yHwTYS8oyFfo_rnL)
+9/13/2021, 4:51:48 PM - ERROR - cannot update user UKkzj7 | ReferenceError: Cannot access 'user' before initialization (sid: -HN2e5MAgRSdWSK8yHwTYS8oyFfo_rnL)
+9/13/2021, 4:51:48 PM - ERROR - Failed to update board | ReferenceError: Cannot access 'user' before initialization (sid: -HN2e5MAgRSdWSK8yHwTYS8oyFfo_rnL)
+9/13/2021, 4:52:06 PM - ERROR - cannot update user UKkzj7 | ReferenceError: Cannot access 'user' before initialization (sid: -HN2e5MAgRSdWSK8yHwTYS8oyFfo_rnL)
+9/13/2021, 4:52:06 PM - ERROR - Failed to update board | ReferenceError: Cannot access 'user' before initialization (sid: -HN2e5MAgRSdWSK8yHwTYS8oyFfo_rnL)
+9/13/2021, 4:52:37 PM - DEBUG - auth.service - login with username: admin (sid: -HN2e5MAgRSdWSK8yHwTYS8oyFfo_rnL)
+9/13/2021, 4:52:55 PM - DEBUG - auth.service - login with username: admin2 (sid: -HN2e5MAgRSdWSK8yHwTYS8oyFfo_rnL)
+9/13/2021, 4:53:08 PM - ERROR - cannot update user 007 | ReferenceError: Cannot access 'user' before initialization (sid: -HN2e5MAgRSdWSK8yHwTYS8oyFfo_rnL)
+9/13/2021, 4:53:08 PM - ERROR - Failed to update board | ReferenceError: Cannot access 'user' before initialization (sid: -HN2e5MAgRSdWSK8yHwTYS8oyFfo_rnL)
+9/13/2021, 4:53:47 PM - ERROR - cannot update user 008 | ReferenceError: Cannot access 'user' before initialization (sid: -HN2e5MAgRSdWSK8yHwTYS8oyFfo_rnL)
+9/13/2021, 4:53:47 PM - ERROR - Failed to update board | ReferenceError: Cannot access 'user' before initialization (sid: -HN2e5MAgRSdWSK8yHwTYS8oyFfo_rnL)
+9/13/2021, 4:54:41 PM - ERROR - cannot update user 008 | ReferenceError: Cannot access 'user' before initialization (sid: -HN2e5MAgRSdWSK8yHwTYS8oyFfo_rnL)
+9/13/2021, 4:54:41 PM - ERROR - Failed to move piece on board | ReferenceError: Cannot access 'user' before initialization (sid: -HN2e5MAgRSdWSK8yHwTYS8oyFfo_rnL)
+9/13/2021, 4:57:53 PM - INFO - Server is running on port: 3030 
+9/13/2021, 4:57:53 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: UPexxBTYidh3xKWoXfj17vGKPiuKqZkB)
+9/13/2021, 4:57:53 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: hzk5RR-Ws8FKi6w2zX4MKl_hwafd9aU-)
+9/13/2021, 4:57:53 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: C9zMGPvW13PGIb3payvhIvg3i2mwLpgt)
+9/13/2021, 4:57:53 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: 05Q409uBkj1N4QAqM0i7pAtDqDr2ONnA)
+9/13/2021, 4:57:55 PM - INFO - Server is running on port: 3030 
+9/13/2021, 4:58:14 PM - DEBUG - auth.service - login with username: admin2 (sid: -APnSQGXguGWhm2ysAA664fyFDUu9xGH)
+9/13/2021, 4:58:17 PM - DEBUG - auth.service - login with username: admin (sid: -APnSQGXguGWhm2ysAA664fyFDUu9xGH)
+9/13/2021, 4:58:32 PM - ERROR - cannot update user 008 | ReferenceError: Cannot access 'user' before initialization (sid: -APnSQGXguGWhm2ysAA664fyFDUu9xGH)
+9/13/2021, 4:58:32 PM - ERROR - Failed to move piece on board | ReferenceError: Cannot access 'user' before initialization (sid: -APnSQGXguGWhm2ysAA664fyFDUu9xGH)
+9/13/2021, 5:00:48 PM - INFO - Server is running on port: 3030 
+9/13/2021, 5:00:48 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: PQl3d-RZjE74CgD5MNpJsqeIzfTkyO-c)
+9/13/2021, 5:00:48 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: 21AVIs3gbj88KKsRSK-jb5y-IoFDrEcv)
+9/13/2021, 5:00:50 PM - INFO - Server is running on port: 3030 
+9/13/2021, 5:00:56 PM - DEBUG - auth.service - login with username: admin (sid: u03s3k5TZEXpOKDgf8Cvsg9GMVOoGjlv)
+9/13/2021, 5:00:59 PM - DEBUG - auth.service - login with username: admin2 (sid: u03s3k5TZEXpOKDgf8Cvsg9GMVOoGjlv)
+9/13/2021, 5:01:26 PM - ERROR - cannot update user 008 | ReferenceError: Cannot access 'user' before initialization (sid: u03s3k5TZEXpOKDgf8Cvsg9GMVOoGjlv)
+9/13/2021, 5:01:26 PM - ERROR - Failed to update board | ReferenceError: Cannot access 'user' before initialization (sid: u03s3k5TZEXpOKDgf8Cvsg9GMVOoGjlv)
+9/13/2021, 5:01:48 PM - DEBUG - auth.service - login with username: admin2 (sid: u03s3k5TZEXpOKDgf8Cvsg9GMVOoGjlv)
+9/13/2021, 5:01:52 PM - DEBUG - auth.service - login with username: admin (sid: u03s3k5TZEXpOKDgf8Cvsg9GMVOoGjlv)
+9/13/2021, 5:02:07 PM - ERROR - cannot update user 008 | ReferenceError: Cannot access 'user' before initialization (sid: u03s3k5TZEXpOKDgf8Cvsg9GMVOoGjlv)
+9/13/2021, 5:02:07 PM - ERROR - Failed to move piece on board | ReferenceError: Cannot access 'user' before initialization (sid: u03s3k5TZEXpOKDgf8Cvsg9GMVOoGjlv)
+9/13/2021, 5:05:12 PM - INFO - Server is running on port: 3030 
+9/13/2021, 5:05:12 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: xRJgKPGSX-QFKaff5ouvnLDj_pcnsPQz)
+9/13/2021, 5:05:12 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: qA8SZcoM_9c7vlu-NV-wbXSKLpGNr5Rv)
+9/13/2021, 5:05:15 PM - INFO - Server is running on port: 3030 
+9/13/2021, 5:05:26 PM - DEBUG - auth.service - login with username: admin (sid: At2zMFDXOR7vDVGTjSw1iAjUsDljHI0g)
+9/13/2021, 5:05:34 PM - DEBUG - auth.service - login with username: admin2 (sid: At2zMFDXOR7vDVGTjSw1iAjUsDljHI0g)
+9/13/2021, 5:05:45 PM - ERROR - cannot update user 008 | ReferenceError: Cannot access 'user' before initialization (sid: At2zMFDXOR7vDVGTjSw1iAjUsDljHI0g)
+9/13/2021, 5:05:45 PM - ERROR - Failed to move piece on board | ReferenceError: Cannot access 'user' before initialization (sid: At2zMFDXOR7vDVGTjSw1iAjUsDljHI0g)
+9/13/2021, 5:07:20 PM - INFO - Server is running on port: 3030 
+9/13/2021, 5:08:13 PM - DEBUG - auth.service - login with username: admin (sid: L2KhgChwnNCC1ZAZVlRkE_stgryUIMaf)
+9/13/2021, 5:08:24 PM - ERROR - cannot update user 008 | ReferenceError: Cannot access 'user' before initialization (sid: L2KhgChwnNCC1ZAZVlRkE_stgryUIMaf)
+9/13/2021, 5:08:24 PM - ERROR - Failed to move piece on board | ReferenceError: Cannot access 'user' before initialization (sid: L2KhgChwnNCC1ZAZVlRkE_stgryUIMaf)
+9/13/2021, 5:10:53 PM - INFO - Server is running on port: 3030 
+9/13/2021, 5:10:53 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: lxsIgWNiGBDAwbQSE2H05B3arOiqbQlA)
+9/13/2021, 5:10:53 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: E9Bk53Q_p663C4oOhIWybqjE3PZtJ90d)
+9/13/2021, 8:35:52 PM - INFO - Server is running on port: 3030 
+9/13/2021, 8:36:02 PM - INFO - Server is running on port: 3030 
+9/13/2021, 8:36:43 PM - DEBUG - auth.service - login with username: admin (sid: c-PraxjQVmThuX5sg9Cn9xNrn42qDOLK)
+9/13/2021, 8:36:46 PM - DEBUG - auth.service - login with username: admin2 (sid: c-PraxjQVmThuX5sg9Cn9xNrn42qDOLK)
+9/13/2021, 8:37:01 PM - ERROR - cannot update user 008 | ReferenceError: Cannot access 'user' before initialization (sid: c-PraxjQVmThuX5sg9Cn9xNrn42qDOLK)
+9/13/2021, 8:37:01 PM - ERROR - Failed to move piece on board | ReferenceError: Cannot access 'user' before initialization (sid: c-PraxjQVmThuX5sg9Cn9xNrn42qDOLK)
+9/13/2021, 8:39:39 PM - INFO - Server is running on port: 3030 
+9/13/2021, 8:39:40 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: -G2L_P6IbTbcGj8qG44HTSdUnIp-gStn)
+9/13/2021, 8:39:40 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: Hz7rth8mYPdicqYU5AKahTn2goJDrH99)
+9/13/2021, 8:40:11 PM - INFO - Server is running on port: 3030 
+9/13/2021, 8:41:22 PM - INFO - Server is running on port: 3030 
+9/13/2021, 8:46:13 PM - INFO - Server is running on port: 3030 
+9/13/2021, 8:46:25 PM - DEBUG - auth.service - login with username: admin2 (sid: obN6Z8AcVdhoSUHV_ZcekLVj3_-K5UTk)
+9/13/2021, 8:48:19 PM - INFO - Server is running on port: 3030 
+9/13/2021, 8:48:31 PM - DEBUG - auth.service - login with username: admin2 (sid: CVs32pa-cR2c31w_y9mRVPAQsjNf8qdA)
+9/13/2021, 8:48:59 PM - DEBUG - auth.service - login with username: admin (sid: CVs32pa-cR2c31w_y9mRVPAQsjNf8qdA)
+9/13/2021, 8:49:03 PM - ERROR - cannot update user 007 | TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters (sid: CVs32pa-cR2c31w_y9mRVPAQsjNf8qdA)
+9/13/2021, 8:49:03 PM - ERROR - Failed to update board | TypeError: Argument passed in must be a Buffer or string of 12 bytes or a string of 24 hex characters (sid: CVs32pa-cR2c31w_y9mRVPAQsjNf8qdA)
+9/13/2021, 8:52:04 PM - INFO - Server is running on port: 3030 
+9/13/2021, 8:52:07 PM - INFO - Server is running on port: 3030 
+9/13/2021, 8:52:31 PM - DEBUG - auth.service - login with username: admin (sid: qEMh9sYL3nEfLWB9MNTyrDFzr0Hao4Oh)
+9/13/2021, 8:52:37 PM - DEBUG - auth.service - login with username: admin2 (sid: qEMh9sYL3nEfLWB9MNTyrDFzr0Hao4Oh)
+9/13/2021, 8:54:49 PM - DEBUG - auth.service - login with username: admin2 (sid: Fncx4fbIv2Q2kJcoDpB0uOisFcUUCP7R)
+9/13/2021, 8:57:40 PM - INFO - Server is running on port: 3030 
+9/13/2021, 8:57:40 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: pH0xQleSc_084T09Mh5yw2i0j2OOHbE_)
+9/13/2021, 8:59:33 PM - INFO - Server is running on port: 3030 
+9/13/2021, 8:59:43 PM - DEBUG - auth.service - login with username: admin2 (sid: Mqtf2PksIc8vwk07_Lwf7XJD-jQI9q4Y)
+9/13/2021, 9:05:54 PM - INFO - Server is running on port: 3030 
+9/13/2021, 9:06:08 PM - DEBUG - auth.service - login with username: admin2 (sid: JnwfCzF0BBYI1BSLLLznOsNTpvDUzrr5)
+9/13/2021, 9:06:11 PM - ERROR - Failed to creat new board | TypeError: Assignment to constant variable. (sid: JnwfCzF0BBYI1BSLLLznOsNTpvDUzrr5)
+9/13/2021, 9:09:51 PM - INFO - Server is running on port: 3030 
+9/13/2021, 9:09:55 PM - DEBUG - auth.service - login with username: admin2 (sid: ldi1hDXvIJDY2roykf50decjthBY9o_N)
+9/13/2021, 9:22:25 PM - INFO - Server is running on port: 3030 
+9/14/2021, 12:25:41 AM - INFO - Server is running on port: 3030 
+9/14/2021, 12:25:50 AM - INFO - Server is running on port: 3030 
+9/14/2021, 12:25:57 AM - INFO - Server is running on port: 3030 
+9/14/2021, 12:26:07 AM - INFO - Server is running on port: 3030 
+9/14/2021, 12:26:18 AM - INFO - Server is running on port: 3030 
+9/14/2021, 11:08:45 AM - DEBUG - auth.service - login with username: admin2 (sid: N66Vt7qOQJsEaq09KOvyyGHyKz5O4boi)
+9/14/2021, 11:30:45 AM - INFO - Server is running on port: 3030 
+9/14/2021, 11:31:36 AM - INFO - Server is running on port: 3030 
+9/14/2021, 11:32:16 AM - INFO - Server is running on port: 3030 
+9/14/2021, 11:32:17 AM - INFO - Server is running on port: 3030 
+9/14/2021, 11:44:35 AM - INFO - Server is running on port: 3030 
+9/14/2021, 12:00:31 PM - INFO - Server is running on port: 3030 
+9/14/2021, 12:00:55 PM - DEBUG - auth.service - login with username: admin2 (sid: t42bmhe2obPIgy0xkgxHu2u2XlKMyA77)
+9/14/2021, 12:01:00 PM - DEBUG - auth.service - login with username: admin (sid: t42bmhe2obPIgy0xkgxHu2u2XlKMyA77)
+9/14/2021, 12:01:27 PM - ERROR - Connot get board from service, id: undefined (sid: t42bmhe2obPIgy0xkgxHu2u2XlKMyA77)
+9/14/2021, 12:04:36 PM - INFO - Server is running on port: 3030 
+9/14/2021, 12:04:36 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: yJDN1ODgjB1RTNs8ZnGCErH3oGeCB6Ou)
+9/14/2021, 12:04:36 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: ltEPF2SXh0-wbwmQih4K4gE5SjQXZhqm)
+9/14/2021, 12:04:47 PM - INFO - Server is running on port: 3030 
+9/14/2021, 12:05:04 PM - DEBUG - auth.service - login with username: admin (sid: TYfheaX1G9qjzz6TpurGNk_tF1o173XW)
+9/14/2021, 12:05:11 PM - DEBUG - auth.service - login with username: admin2 (sid: TYfheaX1G9qjzz6TpurGNk_tF1o173XW)
+9/14/2021, 12:51:18 PM - INFO - Server is running on port: 3030 
+9/14/2021, 12:51:28 PM - INFO - Server is running on port: 3030 
+9/14/2021, 12:52:16 PM - INFO - Server is running on port: 3030 
+9/14/2021, 12:52:29 PM - INFO - Server is running on port: 3030 
+9/14/2021, 1:05:09 PM - INFO - Server is running on port: 3030 
+9/14/2021, 1:05:31 PM - DEBUG - auth.service - login with username: admin2 (sid: Y8wVNhbTmf_vWkfAsd35i2wot90gp3kK)
+9/14/2021, 1:05:37 PM - DEBUG - auth.service - login with username: admin1 (sid: Y8wVNhbTmf_vWkfAsd35i2wot90gp3kK)
+9/14/2021, 1:05:38 PM - ERROR - Failed to Login Invalid username or password (sid: Y8wVNhbTmf_vWkfAsd35i2wot90gp3kK)
+9/14/2021, 1:05:43 PM - DEBUG - auth.service - login with username: admin (sid: Y8wVNhbTmf_vWkfAsd35i2wot90gp3kK)
+9/14/2021, 1:08:42 PM - INFO - Server is running on port: 3030 
+9/14/2021, 1:08:42 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: 8pyf8ZE45qZC2ASpDN9kNgTD4jcDHxss)
+9/14/2021, 1:08:42 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: 6KWcn69LrQJr5dIR9Q8-9ifoessQypr7)
+9/14/2021, 1:08:42 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: 1PP-hajWYhdlXf9JGwq61KslphAtDWTB)
+9/14/2021, 1:08:46 PM - INFO - Server is running on port: 3030 
+9/14/2021, 1:08:59 PM - ERROR - cannot clear game from user | TypeError: Cannot read property 'findIndex' of undefined (sid: IwMI8Xt2xhcmYo0bT5OrP1IU-Jlzouw_)
+9/14/2021, 1:08:59 PM - ERROR - cannot clear game from user | TypeError: Cannot read property 'findIndex' of undefined (sid: IwMI8Xt2xhcmYo0bT5OrP1IU-Jlzouw_)
+9/14/2021, 1:10:57 PM - INFO - Server is running on port: 3030 
+9/14/2021, 1:10:57 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: qjFvTLid4QsfsyJinr2R6p3oy53RiHQC)
+9/14/2021, 1:11:07 PM - INFO - Server is running on port: 3030 
+9/14/2021, 1:11:32 PM - ERROR - cannot clear game from user | TypeError: Cannot read property 'findIndex' of undefined (sid: ip4AWWySS5wFIeQZU-8FRjsTfqm_9Vws)
+9/14/2021, 1:11:32 PM - ERROR - cannot clear game from user | TypeError: Cannot read property 'findIndex' of undefined (sid: ip4AWWySS5wFIeQZU-8FRjsTfqm_9Vws)
+9/14/2021, 1:13:07 PM - INFO - Server is running on port: 3030 
+9/14/2021, 1:13:08 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: tsikuFcpIp51OjRBb14TfxoMkKF0iprd)
+9/14/2021, 1:13:08 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: QOuK-vGt6G0IMkdeyMMQYqgFp7_6EyrG)
+9/14/2021, 1:13:26 PM - ERROR - cannot clear game from user | Error: couldn't find game:q1Zwx in admin2 (sid: QOuK-vGt6G0IMkdeyMMQYqgFp7_6EyrG)
+9/14/2021, 1:13:26 PM - ERROR - cannot clear game from user | Error: couldn't find game:q1Zwx in admin (sid: QOuK-vGt6G0IMkdeyMMQYqgFp7_6EyrG)
+9/14/2021, 1:13:59 PM - DEBUG - auth.service - login with username: admin (sid: QOuK-vGt6G0IMkdeyMMQYqgFp7_6EyrG)
+9/14/2021, 1:15:46 PM - INFO - Server is running on port: 3030 
+9/14/2021, 1:15:46 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: 4ixpXC56xJWmoiN5Nk0qduhNng5YhskV)
+9/14/2021, 1:15:46 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: paXUHTWCvIcjxCQG6eDPsgOPOfTksVhp)
+9/14/2021, 1:15:46 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: 5zBP2JVCrcJj9NIrb5LpSghr0BWqaf1I)
+9/14/2021, 1:16:22 PM - INFO - Server is running on port: 3030 
+9/14/2021, 1:16:33 PM - ERROR - Failed to delete board | TypeError: Cannot read property 'whitePlayer' of undefined (sid: dN-xNuCphS58h9dhSWmqxmAwWJZEBahc)
+9/14/2021, 1:17:36 PM - INFO - Server is running on port: 3030 
+9/14/2021, 1:17:44 PM - ERROR - cannot clear game from user | Error: couldn't find game:428su in admin2 (sid: j-kreKBDKBHQ8S1lSGujv_AKLGYZLSqd)
+9/14/2021, 1:17:45 PM - ERROR - cannot clear game from user | Error: couldn't find game:428su in admin (sid: j-kreKBDKBHQ8S1lSGujv_AKLGYZLSqd)
+9/14/2021, 1:18:24 PM - DEBUG - auth.service - login with username: admin (sid: j-kreKBDKBHQ8S1lSGujv_AKLGYZLSqd)
+9/14/2021, 1:20:23 PM - INFO - Server is running on port: 3030 
+9/14/2021, 1:20:23 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: bd6csMl3QJRI7VeIsgg40JEFtd3JUCar)
+9/14/2021, 1:20:26 PM - INFO - Server is running on port: 3030 
+9/14/2021, 1:20:35 PM - DEBUG - auth.service - login with username: admin (sid: sZK0fyh3phpdYWnMRULz-ivwXWG6Fe_H)
+9/14/2021, 1:20:48 PM - DEBUG - auth.service - login with username: admin2 (sid: Hm_543x9mE6ovlcOCNoU-nd9xvVBlq06)
+9/14/2021, 1:21:30 PM - DEBUG - Deleted successfully (sid: Hm_543x9mE6ovlcOCNoU-nd9xvVBlq06)
+9/14/2021, 1:45:30 PM - INFO - Server is running on port: 3030 
+9/14/2021, 1:45:30 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: zlIblDvwzTWZjemABk2u3mlbyJkdqG3D)
+9/14/2021, 1:46:32 PM - INFO - Server is running on port: 3030 
+9/14/2021, 1:46:44 PM - INFO - Server is running on port: 3030 
+9/14/2021, 1:46:52 PM - DEBUG - auth.service - login with username: admin2 (sid: SlMqd9DV9d1QbOVZUYiJeULuXUj7yp3Q)
+9/14/2021, 1:47:03 PM - ERROR - cannot clear game from user | Error: couldn't find game:ueCLx in admin2 (sid: SlMqd9DV9d1QbOVZUYiJeULuXUj7yp3Q)
+9/14/2021, 1:47:03 PM - ERROR - cannot clear game from user | Error: couldn't find game:ueCLx in admin (sid: SlMqd9DV9d1QbOVZUYiJeULuXUj7yp3Q)
+9/14/2021, 1:47:03 PM - DEBUG - Deleted successfully (sid: SlMqd9DV9d1QbOVZUYiJeULuXUj7yp3Q)
+9/14/2021, 2:08:53 PM - DEBUG - auth.service - login with username: admin2 (sid: SlMqd9DV9d1QbOVZUYiJeULuXUj7yp3Q)
+9/14/2021, 2:10:23 PM - DEBUG - auth.service - login with username: admin (sid: SlMqd9DV9d1QbOVZUYiJeULuXUj7yp3Q)
+9/14/2021, 2:15:48 PM - INFO - Server is running on port: 3030 
+9/14/2021, 2:16:11 PM - DEBUG - auth.service - login with username: admin2 (sid: WPyD0CkXQMZ9cy_e6-F4s1Ouk7jC9v_A)
+9/14/2021, 2:16:20 PM - DEBUG - auth.service - login with username: admin (sid: s7J8yGhlxKCnX485qsp3MYOH3lFQte_u)
+9/14/2021, 2:19:33 PM - DEBUG - auth.service - login with username: admin (sid: s7J8yGhlxKCnX485qsp3MYOH3lFQte_u)
+9/14/2021, 2:20:02 PM - DEBUG - auth.service - login with username: admin2 (sid: s7J8yGhlxKCnX485qsp3MYOH3lFQte_u)
+9/14/2021, 2:25:19 PM - DEBUG - Deleted successfully (sid: s7J8yGhlxKCnX485qsp3MYOH3lFQte_u)
+9/14/2021, 2:31:38 PM - DEBUG - auth.service - login with username: admin2 (sid: s7J8yGhlxKCnX485qsp3MYOH3lFQte_u)
+9/14/2021, 2:31:42 PM - DEBUG - auth.service - login with username: admin (sid: s7J8yGhlxKCnX485qsp3MYOH3lFQte_u)
+9/14/2021, 2:41:39 PM - DEBUG - Deleted successfully (sid: s7J8yGhlxKCnX485qsp3MYOH3lFQte_u)
+9/14/2021, 2:44:45 PM - DEBUG - Deleted successfully (sid: s7J8yGhlxKCnX485qsp3MYOH3lFQte_u)
+9/14/2021, 2:45:30 PM - DEBUG - Deleted successfully (sid: s7J8yGhlxKCnX485qsp3MYOH3lFQte_u)
+9/14/2021, 2:46:38 PM - DEBUG - Deleted successfully (sid: s7J8yGhlxKCnX485qsp3MYOH3lFQte_u)
+9/14/2021, 2:46:42 PM - ERROR - Failed to delete board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: s7J8yGhlxKCnX485qsp3MYOH3lFQte_u)
+9/14/2021, 2:46:45 PM - ERROR - Failed to delete board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: s7J8yGhlxKCnX485qsp3MYOH3lFQte_u)
+9/14/2021, 2:46:55 PM - ERROR - Failed to delete board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: s7J8yGhlxKCnX485qsp3MYOH3lFQte_u)
+9/14/2021, 2:52:00 PM - DEBUG - Deleted successfully (sid: s7J8yGhlxKCnX485qsp3MYOH3lFQte_u)
+9/14/2021, 2:56:02 PM - DEBUG - Deleted successfully (sid: s7J8yGhlxKCnX485qsp3MYOH3lFQte_u)
+9/14/2021, 2:56:04 PM - ERROR - Failed to delete board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: s7J8yGhlxKCnX485qsp3MYOH3lFQte_u)
+9/14/2021, 8:32:15 PM - DEBUG - auth.service - login with username: admin (sid: 7_j3bl2eExly2vyS3zVCAyH0JItkcGlk)
+9/14/2021, 8:32:18 PM - DEBUG - auth.service - login with username: admin2 (sid: 7_j3bl2eExly2vyS3zVCAyH0JItkcGlk)
+9/14/2021, 8:32:50 PM - DEBUG - Deleted successfully (sid: 7_j3bl2eExly2vyS3zVCAyH0JItkcGlk)
+9/14/2021, 8:35:07 PM - DEBUG - Deleted successfully (sid: 7_j3bl2eExly2vyS3zVCAyH0JItkcGlk)
+9/14/2021, 8:37:32 PM - INFO - Server is running on port: 3030 
+9/14/2021, 8:37:57 PM - DEBUG - auth.service - login with username: admin2 (sid: NhiB0stWqiJ4kKGIOuDYE5AbU30uqmb9)
+9/14/2021, 8:38:02 PM - DEBUG - auth.service - login with username: admin (sid: NhiB0stWqiJ4kKGIOuDYE5AbU30uqmb9)
+9/14/2021, 8:39:12 PM - DEBUG - Deleted successfully (sid: NhiB0stWqiJ4kKGIOuDYE5AbU30uqmb9)
+9/14/2021, 8:45:27 PM - INFO - Server is running on port: 3030 
+9/14/2021, 8:45:27 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: GDOjKY26O60K1qfp8gzofaU3Bj2L0OC9)
+9/14/2021, 8:45:27 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: -20026dXSdLI3xNqOUfjhtx4L9xYAk3c)
+9/14/2021, 8:45:27 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: ki2jvJz4vSubLXZB3WUHZKZc1dawGAjn)
+9/14/2021, 8:45:27 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: vqW672Dk4mY13pvJWmrwkrNJFZyFkwA0)
+9/14/2021, 8:48:17 PM - INFO - Server is running on port: 3030 
+9/14/2021, 8:48:17 PM - ERROR - Failed to update board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: AcJRAZA1Mq-X0LlY3LJ4o0cBPnP8eSzs)
+9/14/2021, 8:49:01 PM - DEBUG - auth.service - login with username: admin2 (sid: 2kgRl_lmz9dVPdZoGSbxFnldHDF1qU9G)
+9/14/2021, 8:49:07 PM - DEBUG - auth.service - login with username: admin (sid: 2kgRl_lmz9dVPdZoGSbxFnldHDF1qU9G)
+9/14/2021, 8:49:44 PM - DEBUG - auth.service - login with username: admin (sid: _wPkfl9uk0Ww65s8OXkufUmsPsbNTDh1)
+9/14/2021, 8:49:50 PM - DEBUG - auth.service - login with username: admin2 (sid: _wPkfl9uk0Ww65s8OXkufUmsPsbNTDh1)
+9/14/2021, 8:52:36 PM - DEBUG - auth.service - login with username: Jonni (sid: _wPkfl9uk0Ww65s8OXkufUmsPsbNTDh1)
+9/14/2021, 8:52:52 PM - ERROR - cannot clear game from user | Error: couldn't find game:L4N6O in admin2 (sid: _wPkfl9uk0Ww65s8OXkufUmsPsbNTDh1)
+9/14/2021, 8:52:52 PM - ERROR - cannot clear game from user | Error: couldn't find game:L4N6O in admin (sid: _wPkfl9uk0Ww65s8OXkufUmsPsbNTDh1)
+9/14/2021, 8:52:52 PM - DEBUG - Deleted successfully (sid: _wPkfl9uk0Ww65s8OXkufUmsPsbNTDh1)
+9/14/2021, 8:54:39 PM - ERROR - Failed to update board | Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client (sid: _wPkfl9uk0Ww65s8OXkufUmsPsbNTDh1)
+9/14/2021, 8:55:38 PM - DEBUG - Deleted successfully (sid: _wPkfl9uk0Ww65s8OXkufUmsPsbNTDh1)
+9/14/2021, 8:55:56 PM - ERROR - Failed to update board | Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client (sid: _wPkfl9uk0Ww65s8OXkufUmsPsbNTDh1)
+9/14/2021, 8:56:17 PM - INFO - Server is running on port: 3030 
+9/14/2021, 8:58:58 PM - INFO - Server is running on port: 3030 
+9/14/2021, 8:59:06 PM - ERROR - Failed to delete board | TypeError: Cannot read property 'blackPlayer' of undefined (sid: CR0cibG594FtATw32CzlI3qhX7njFvGr)
+9/14/2021, 8:59:41 PM - DEBUG - auth.service - login with username: Jonni (sid: CR0cibG594FtATw32CzlI3qhX7njFvGr)
+9/14/2021, 8:59:45 PM - DEBUG - auth.service - login with username: admin (sid: CR0cibG594FtATw32CzlI3qhX7njFvGr)
+9/14/2021, 8:59:45 PM - ERROR - Failed to Login Invalid username or password (sid: CR0cibG594FtATw32CzlI3qhX7njFvGr)
+9/14/2021, 8:59:54 PM - DEBUG - auth.service - login with username: admin2 (sid: CR0cibG594FtATw32CzlI3qhX7njFvGr)
+9/14/2021, 9:11:43 PM - INFO - Server is running on port: 3030 
+9/14/2021, 9:13:15 PM - INFO - Server is running on port: 3030 
+9/14/2021, 9:13:23 PM - INFO - Server is running on port: 3030 
+9/14/2021, 9:13:27 PM - INFO - Server is running on port: 3030 
+9/14/2021, 9:14:09 PM - DEBUG - auth.service - login with username: admin2 (sid: G9CAoXsadM--kNHtgeKlAUuhsZWC1rcm)
+9/14/2021, 9:14:13 PM - DEBUG - auth.service - login with username: admin (sid: G9CAoXsadM--kNHtgeKlAUuhsZWC1rcm)
+9/14/2021, 9:14:25 PM - INFO - board is validated (sid: G9CAoXsadM--kNHtgeKlAUuhsZWC1rcm)
+9/14/2021, 9:14:28 PM - INFO - board is validated (sid: G9CAoXsadM--kNHtgeKlAUuhsZWC1rcm)
+9/14/2021, 9:14:30 PM - INFO - board is validated (sid: G9CAoXsadM--kNHtgeKlAUuhsZWC1rcm)
+9/14/2021, 9:14:33 PM - INFO - board is validated (sid: G9CAoXsadM--kNHtgeKlAUuhsZWC1rcm)
+9/14/2021, 9:14:33 PM - DEBUG - CheckMate! Black Win! (sid: G9CAoXsadM--kNHtgeKlAUuhsZWC1rcm)
+9/14/2021, 9:15:03 PM - DEBUG - auth.service - login with username: admin (sid: lobCetq99v9Ehwm__Mx2sIjvDNgmQdRX)
+9/14/2021, 9:18:41 PM - INFO - Server is running on port: 3030 
+9/14/2021, 9:29:47 PM - DEBUG - auth.service - login with username: admin (sid: 5-nnm-kBBBHL6SBmSUbqc-XNY0VqpTVV)
+9/14/2021, 9:32:34 PM - DEBUG - auth.service - login with username: admin2 (sid: 5-nnm-kBBBHL6SBmSUbqc-XNY0VqpTVV)
+9/14/2021, 9:32:50 PM - INFO - board is validated (sid: 5-nnm-kBBBHL6SBmSUbqc-XNY0VqpTVV)
+9/14/2021, 9:32:57 PM - INFO - board is validated (sid: 5-nnm-kBBBHL6SBmSUbqc-XNY0VqpTVV)
+9/14/2021, 9:33:01 PM - INFO - board is validated (sid: 5-nnm-kBBBHL6SBmSUbqc-XNY0VqpTVV)
+9/14/2021, 9:33:04 PM - INFO - board is validated (sid: 5-nnm-kBBBHL6SBmSUbqc-XNY0VqpTVV)
+9/14/2021, 9:33:04 PM - DEBUG - CheckMate! Black Win! (sid: 5-nnm-kBBBHL6SBmSUbqc-XNY0VqpTVV)
+9/14/2021, 9:33:13 PM - DEBUG - auth.service - login with username: admin (sid: JnjO4W4ZizRKoP7210a6JAHB_dDvwb_F)
+9/14/2021, 9:46:55 PM - DEBUG - auth.service - login with username: admin (sid: JnjO4W4ZizRKoP7210a6JAHB_dDvwb_F)
+9/14/2021, 9:50:23 PM - INFO - Server is running on port: 3030 
+9/14/2021, 9:52:37 PM - INFO - Server is running on port: 3030 
+9/14/2021, 10:20:57 PM - DEBUG - auth.service - login with username: admin (sid: hUgMctJq5NFtN6usphqjj4M_hzEqIXSm)
+9/14/2021, 10:23:30 PM - INFO - board is validated (sid: hUgMctJq5NFtN6usphqjj4M_hzEqIXSm)
+9/14/2021, 10:23:41 PM - DEBUG - auth.service - login with username: admin1 (sid: hUgMctJq5NFtN6usphqjj4M_hzEqIXSm)
+9/14/2021, 10:23:41 PM - ERROR - Failed to Login Invalid username or password (sid: hUgMctJq5NFtN6usphqjj4M_hzEqIXSm)
+9/14/2021, 10:23:47 PM - DEBUG - auth.service - login with username: admin2 (sid: hUgMctJq5NFtN6usphqjj4M_hzEqIXSm)
+9/14/2021, 10:24:58 PM - INFO - board is validated (sid: hUgMctJq5NFtN6usphqjj4M_hzEqIXSm)
+9/14/2021, 10:25:02 PM - INFO - board is validated (sid: hUgMctJq5NFtN6usphqjj4M_hzEqIXSm)
+9/14/2021, 10:25:14 PM - INFO - board is validated (sid: hUgMctJq5NFtN6usphqjj4M_hzEqIXSm)
+9/14/2021, 10:25:20 PM - INFO - board is validated (sid: hUgMctJq5NFtN6usphqjj4M_hzEqIXSm)
+9/14/2021, 10:25:31 PM - INFO - board is validated (sid: hUgMctJq5NFtN6usphqjj4M_hzEqIXSm)
+9/14/2021, 10:25:36 PM - INFO - board is validated (sid: hUgMctJq5NFtN6usphqjj4M_hzEqIXSm)
+9/14/2021, 10:25:50 PM - INFO - board is validated (sid: hUgMctJq5NFtN6usphqjj4M_hzEqIXSm)
+9/14/2021, 10:25:50 PM - DEBUG - CheckMate! Black Win! (sid: hUgMctJq5NFtN6usphqjj4M_hzEqIXSm)
+9/14/2021, 10:25:54 PM - ERROR - cannot clear game from user | Error: couldn't find game:Axdmf in admin (sid: hUgMctJq5NFtN6usphqjj4M_hzEqIXSm)
+9/14/2021, 10:25:54 PM - ERROR - cannot clear game from user | Error: couldn't find game:Axdmf in admin2 (sid: hUgMctJq5NFtN6usphqjj4M_hzEqIXSm)
+9/14/2021, 10:25:54 PM - DEBUG - Deleted successfully (sid: hUgMctJq5NFtN6usphqjj4M_hzEqIXSm)
+9/14/2021, 10:34:13 PM - DEBUG - auth.service - login with username: admin2 (sid: Gx-kiRWqpdDR8H-QS_aAQyd7c3EC_xjJ)
+9/14/2021, 10:34:25 PM - DEBUG - auth.service - login with username: admin (sid: Gx-kiRWqpdDR8H-QS_aAQyd7c3EC_xjJ)
+9/14/2021, 10:34:49 PM - INFO - board is validated (sid: Gx-kiRWqpdDR8H-QS_aAQyd7c3EC_xjJ)
+9/14/2021, 10:34:59 PM - INFO - board is validated (sid: Gx-kiRWqpdDR8H-QS_aAQyd7c3EC_xjJ)
+9/14/2021, 10:35:07 PM - INFO - board is validated (sid: Gx-kiRWqpdDR8H-QS_aAQyd7c3EC_xjJ)
+9/14/2021, 10:35:09 PM - INFO - board is validated (sid: Gx-kiRWqpdDR8H-QS_aAQyd7c3EC_xjJ)
+9/14/2021, 10:35:13 PM - INFO - board is validated (sid: Gx-kiRWqpdDR8H-QS_aAQyd7c3EC_xjJ)
+9/14/2021, 10:35:13 PM - DEBUG - CheckMate! White Win! (sid: Gx-kiRWqpdDR8H-QS_aAQyd7c3EC_xjJ)
+9/14/2021, 10:35:17 PM - DEBUG - Deleted successfully (sid: Gx-kiRWqpdDR8H-QS_aAQyd7c3EC_xjJ)
+9/14/2021, 10:42:07 PM - DEBUG - auth.service - login with username: admin (sid: QYeqCxfKE8IHv8fSWsGenDSiQdSEwATd)
+9/14/2021, 10:42:27 PM - DEBUG - auth.service - login with username: admin2 (sid: QYeqCxfKE8IHv8fSWsGenDSiQdSEwATd)
+9/14/2021, 10:42:35 PM - INFO - board is validated (sid: QYeqCxfKE8IHv8fSWsGenDSiQdSEwATd)
+9/14/2021, 10:42:39 PM - INFO - board is validated (sid: QYeqCxfKE8IHv8fSWsGenDSiQdSEwATd)
+9/14/2021, 10:42:42 PM - INFO - board is validated (sid: QYeqCxfKE8IHv8fSWsGenDSiQdSEwATd)
+9/14/2021, 10:42:46 PM - INFO - board is validated (sid: QYeqCxfKE8IHv8fSWsGenDSiQdSEwATd)
+9/14/2021, 10:42:46 PM - DEBUG - CheckMate! Black Win! (sid: QYeqCxfKE8IHv8fSWsGenDSiQdSEwATd)
+9/14/2021, 10:42:50 PM - DEBUG - Deleted successfully (sid: QYeqCxfKE8IHv8fSWsGenDSiQdSEwATd)

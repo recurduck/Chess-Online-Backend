@@ -1,51 +1,8 @@
 
-// const dbService = require('../../services/db.service')
+const dbService = require('../../services/db.service')
 const logger = require('../../services/logger.service')
 // const reviewService = require('../review/review.service')
-// const ObjectId = require('mongodb').ObjectId
-
-gUsers = [
-    {
-        "_id": "007",
-        "username": "admin",
-        "password": "1234",
-        "name": "adam",
-        "lastName": "hava",
-        "email": "Jorjo@gmail.com",
-        "game_played": 0,
-        "gender": "male",
-        "avatar": "", //URL
-        "followers": [],
-        "last_online": 1628752622,
-        "joined": 1609245530,
-        "status": "admin",
-        "win": 0,
-        "lose": 0,
-        "draw": 0,
-        "curr_gameId": "",
-        "game_history": []
-    },
-    {
-        "_id": "008",
-        "username": "admin2",
-        "password": "1234",
-        "name": "adam",
-        "lastName": "hava",
-        "email": "Jorjo@gmail.com",
-        "game_played": 0,
-        "gender": "male",
-        "avatar": "", //URL
-        "followers": [],
-        "last_online": 1628752622,
-        "joined": 1609245530,
-        "status": "admin",
-        "win": 0,
-        "lose": 0,
-        "draw": 0,
-        "curr_gameId": "",
-        "game_history": []
-    },
-]
+const ObjectId = require('mongodb').ObjectId
 
 module.exports = {
     query,
@@ -54,15 +11,16 @@ module.exports = {
     remove,
     update,
     add,
-    gUsers
+    clearCurrGame
 }
 
 async function query(filterBy = {}) {
-    // const criteria = _buildCriteria(filterBy)
+    const criteria = _buildCriteria(filterBy)
     try {
-        // const collection = await dbService.getCollection('user')
-        // var users = await collection.find(criteria).toArray()
-        users = gUsers.map(user => {
+        const collection = await dbService.getCollection('USER')
+        var users = await collection.find(criteria).toArray()
+        // users = gUsers.map(user => {
+        users = users.map(user => {
             delete user.password
             return user
         })
@@ -75,9 +33,10 @@ async function query(filterBy = {}) {
 
 async function getById(userId) {
     try {
-        // const collection = await dbService.getCollection('user')
+        const collection = await dbService.getCollection('USER')
         // const user = await collection.findOne({ '_id': ObjectId(userId) })
-        const user = gUsers.find(user => user._id === userId)
+        const user = await collection.findOne({ '_id': userId })
+        // const user = gUsers.find(user => user._id === userId)
         delete user.password
         return user
     } catch (err) {
@@ -87,9 +46,9 @@ async function getById(userId) {
 }
 async function getByUsername(username) {
     try {
-        // const collection = await dbService.getCollection('user')
-        // const user = await collection.findOne({ username })
-        const user = gUsers.find(user => user.username === username)
+        const collection = await dbService.getCollection('USER')
+        const user = await collection.findOne({ username })
+        // const user = gUsers.find(user => user.username === username)
         return user
     } catch (err) {
         logger.error(`while finding user ${username}`, err)
@@ -99,10 +58,10 @@ async function getByUsername(username) {
 
 async function remove(userId) {
     try {
-        // const collection = await dbService.getCollection('user')
-        // await collection.deleteOne({ '_id': ObjectId(userId) })
-        var idx = gUsers.findindex(user => user._id === userId)
-        gUsers.splice(idx, 1)
+        const collection = await dbService.getCollection('USER')
+        await collection.deleteOne({ '_id': ObjectId(userId) })
+        // var idx = gUsers.findindex(user => user._id === userId)
+        // gUsers.splice(idx, 1)
     } catch (err) {
         logger.error(`cannot remove user ${userId}`, err)
         throw err
@@ -113,6 +72,7 @@ async function update(user) {
     try {
         // peek only updatable fields!
         const userToSave = {
+            // _id: ObjectId(user._id),
             game_played: user.game_played,
             avatar: user.avatar,
             followers: user.followers,
@@ -123,11 +83,13 @@ async function update(user) {
             curr_gameId: user.curr_gameId,
             game_history: user.game_history
         }
-        // const collection = await dbService.getCollection('user')
-        // await collection.updateOne({ '_id': userToSave._id }, { $set: userToSave })
-        var idx = gUsers.findIndex(gUser => user._id === gUser._id)
-        gUsers[idx] = {...gUsers[idx],...userToSave} 
-        return gUsers[idx];
+        const collection = await dbService.getCollection('USER')
+        await collection.updateOne({ '_id': user._id }, { $set: userToSave })
+        // var idx = gUsers.findIndex(gUser => user._id === gUser._id)
+        // gUsers[idx] = {...gUsers[idx],...userToSave} 
+        // return gUsers[idx];
+        // const user = await collection.findOne({ '_id': ObjectId(user._id) })
+        return userToSave;
     } catch (err) {
         logger.error(`cannot update user ${user._id}`, err)
         throw err
@@ -141,7 +103,7 @@ async function add(user) {
             _id: _makeId(),
             username: user.username,
             password: user.password,
-            name: user.name,
+            name: user.firstName,
             lastName: user.lastName,
             email: user.email,
             game_played: 0,
@@ -153,19 +115,34 @@ async function add(user) {
             win: 0,
             lose: 0,
             draw: 0,
-            curr_gameId: "",
+            curr_gameId: [],
             game_history: []
     
         }
-        // const collection = await dbService.getCollection('user')
-        // await collection.insertOne(userToAdd)
-        gUsers.push(userToAdd)
+        const collection = await dbService.getCollection('USER')
+        await collection.insertOne(userToAdd)
+        // gUsers.push(userToAdd)
         return userToAdd
     } catch (err) {
         logger.error('cannot insert user', err)
         throw err
     }
 }
+
+async function clearCurrGame(userId, gameId) {
+    try {
+        const user = await getById(userId)
+        var idx = user.curr_gameId.findIndex(currGameId => gameId === currGameId)
+        if (idx === -1) throw new Error(`couldn't find game:${gameId} in ${user.username}`)
+        user.curr_gameId.splice(idx, 1)
+        const collection = await dbService.getCollection('USER')
+        await collection.updateOne({ '_id': user._id }, { $set: user })
+    } catch(err) {
+        logger.error('cannot clear game from user', err)
+    }
+    
+}
+
 
 // function _buildCriteria(filterBy) {
 //     const criteria = {}
