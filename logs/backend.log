@@ -479,3 +479,8 @@
 9/16/2021, 7:54:51 PM - INFO - Server is running on port: 3030 
 9/16/2021, 7:55:26 PM - INFO - Server is running on port: 3030 
 9/16/2021, 7:56:00 PM - INFO - Server is running on port: 3030 
+9/16/2021, 9:12:01 PM - INFO - Server is running on port: 3030 
+9/16/2021, 9:25:31 PM - DEBUG - auth.service - login with username: I.g (sid: iu6mjQX4_Cb85LELzv1TORxklkqgt6WI)
+9/16/2021, 9:25:33 PM - ERROR - Failed to Login Invalid username or password (sid: iu6mjQX4_Cb85LELzv1TORxklkqgt6WI)
+9/16/2021, 9:25:40 PM - DEBUG - auth.service - login with username: I.G (sid: iu6mjQX4_Cb85LELzv1TORxklkqgt6WI)
+9/16/2021, 9:56:19 PM - INFO - Server is running on port: 3030 
