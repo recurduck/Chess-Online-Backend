@@ -1,6 +1,7 @@
 // const dbService = require('../../services/db.service')
 const logger = require('../../services/logger.service')
 const ObjectId = require('mongodb').ObjectId
+const userService = require('../user/user.service')
 
 const KIT = {
     KING_WHITE: '♔',
@@ -71,7 +72,7 @@ function _createBoard(player1, player2 = null) {
     if (player2) {
         board.blackPlayer.user = {
             _id: player2._id,
-            name: player2.username
+            username: player2.username
         }
     }
     return board
@@ -204,7 +205,7 @@ async function movePiece(gameId, fromCoord, toCoord, frontBoard) {
         let res = await _movePiece(gameId, fromCoord, toCoord)
         return res
     }
-    return getBoardById(gameId)
+    return game
 }
 
 async function _movePiece(gameId, fromCoord, toCoord) {
@@ -227,7 +228,7 @@ async function _movePiece(gameId, fromCoord, toCoord) {
     _cleanBoard(board)
     await update(game)
     if (_isCheckMate(!game.whiteTurn ? game.blackPlayer.kingPos : game.whitePlayer.kingPos, game)) {
-        _checkMate(game)
+        await _checkMate(game)
     }
     return game
 }
@@ -240,18 +241,32 @@ async function _validateBoard(frontBoard, backendBoard) {
             if (front.piece !== backend.piece || front.isWhite !== backend.isWhite) return false
         }
     }
-    console.log('board is validated');
+    logger.info('board is validated');
     return true
 }
 
-function _checkMate(game) {
+async function _checkMate(game) {
     game.countGame++
     // if (window.confirm(`CheckMate! ${(game.whiteTurn) ? 'Black' : 'White'} Win!`)) {
-    console.log(`CheckMate! ${(game.whiteTurn) ? 'Black' : 'White'} Win!`);
+    logger.debug(`CheckMate! ${(game.whiteTurn) ? 'Black' : 'White'} Win!`);
+    let winner = await userService.getById(game.whiteTurn?game.blackPlayer.user._id:game.whitePlayer.user._id)
+    let loser = await userService.getById(game.whiteTurn?game.whitePlayer.user._id:game.blackPlayer.user._id)
+    winner.win++
+    winner.game_played++
+    loser.lose++
+    loser.game_played++
+    
+    const historyNote = {gameNum: 0,win: winner.username, lose: loser.username, time: Math.floor(new Date().getTime()/1000.0)}
+    winner.game_history.unshift({...historyNote, gameNum: winner.game_played})
+    loser.game_history.unshift({...historyNote, gameNum: loser.game_played})
+    
+    await userService.update(winner)
+    await userService.update(loser)
     game.gameBoard = _buildBoard()
     _cleanBoard(game.gameBoard)
-    // updateGame(game._id, game)
-    // }
+    let tempuser = {...game.blackPlayer.user}
+    game.blackPlayer.user ={...game.whitePlayer.user}
+    game.whitePlayer.user = {...tempuser}
 }
 
 function _nextStepModal(fromCoord, toCoord, game) {

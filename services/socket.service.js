@@ -16,7 +16,6 @@ function connectSockets(http, session) {
     gIo.use(sharedSession(session, {
         autoSave: true
     }));
-    
     gIo.on('connection', socket => {
         console.log('New socket - socket.handshake.sessionID', socket.handshake.sessionID)
         gSocketBySessionIdMap[socket.handshake.sessionID] = socket
@@ -25,7 +24,7 @@ function connectSockets(http, session) {
                 gSocketBySessionIdMap[socket.handshake.sessionID] = null
             }
         })
-        socket.on('editor id', roomId => {
+        socket.on('room-id', roomId => {
             if (socket.roomId === roomId) return;
             if (socket.roomId) {
                 socket.leave(socket.roomId)
@@ -34,27 +33,13 @@ function connectSockets(http, session) {
             socket.roomId = roomId
             console.log('roomId', roomId);
         })
-        socket.on('update wap', (wap) => {
-            socket.broadcast.to(socket.roomId).emit('update wap', wap)
+        socket.on('update-board', game => {
+            console.log('game updated from socket ');
+            socket.broadcast.to(socket.roomId).emit('update-board', game)
         })
-        socket.on('mouse move', pos => {
-            socket.broadcast.to(socket.roomId).emit('mouse_position_update', pos);
-        });
-        socket.on('change wap', wap => {
-            console.log('wap', wap);
-            // emits to all sockets:
-            // gIo.emit('chat addwap', wap)
-            // emits only to sockets in the same room
-            // gIo.to(socket.myTopic).emit('update wap', wap)
+        socket.on('game-ended', bool => {
+            socket.broadcast.to(socket.roomId).emit('game-ended', bool)
         })
-        
-        socket.on('store update', msg => {
-            gIo.broadcast.emit('notify users', msg)
-        })
-        socket.on('user-watch', userId => {
-            socket.join(userId)
-        })
-
     })
 }
 
@@ -62,12 +47,6 @@ function emitToAll({ type, data, room = null }) {
     if (room) gIo.to(room).emit(type, data)
     else gIo.emit(type, data)
 }
-
-// TODO: Need to test emitToUser feature
-function emitToUser({ type, data, userId }) {
-    gIo.to(userId).emit(type, data)
-}
-
 
 // Send to all sockets BUT not the current socket 
 function broadcast({ type, data, room = null }) {

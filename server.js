@@ -1,11 +1,11 @@
 const express = require('express')
-const expressSession = require('express-session')
 const cors = require('cors')
+const path = require('path')
+const expressSession = require('express-session')
+const { connectSockets } = require('./services/socket.service')
 
 const app = express()
 const http = require('http').createServer(app)
-const { Server } = require('socket.io')
-const io = new Server(http)
 
 const session = expressSession({
   secret: 'coding is amazing',
@@ -17,9 +17,6 @@ const session = expressSession({
 app.use(express.json())
 app.use(session)
 
-const boardRoutes = require('./api/board/board.routes')
-const userRoutes = require('./api/user/user.routes')
-const authRoutes = require('./api/auth/auth.routes')
 if (process.env.NODE_ENV === 'production') {
   app.use(express.static(path.resolve(__dirname, 'public')))
 } else {
@@ -30,6 +27,10 @@ if (process.env.NODE_ENV === 'production') {
   app.use(cors(corsOptions))
 }
 
+const boardRoutes = require('./api/board/board.routes')
+const userRoutes = require('./api/user/user.routes')
+const authRoutes = require('./api/auth/auth.routes')
+
 // routes
 const setupAsyncLocalStorage = require('./middlewares/setupAls.middleware')
 app.all('*', setupAsyncLocalStorage)
@@ -38,17 +39,26 @@ app.use('/api/board', boardRoutes)
 app.use('/api/user', userRoutes)
 app.use('/api/auth', authRoutes)
 
-app.get('/', (req, res) => {
-  res.send('Hello World!')
+// app.get('/', (req, res) => {
+//   res.send(__dirname)
+// })
+
+
+app.get('/api/setup-session', (req, res) => {
+  req.session.connectedAt = Date.now()
+  console.log('setup-session:', req.sessionID);
+  res.end()
+})
+
+connectSockets(http, session)
+
+
+app.get('/**', (req, res) => { 
+  res.sendFile(path.join(__dirname, 'public', 'index.html'))
 })
 
 const logger = require('./services/logger.service')
-
-io.on('connection', (socket) => {
-  console.log('a user connected');
-});
-
 const port = process.env.PORT || 3030
 http.listen(port, () => {
-  logger.info(`Server is running on port: ${port}`)
+  return logger.info(`Server is running on port: ${port}`)
 })
