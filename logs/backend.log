@@ -484,3 +484,9 @@
 9/16/2021, 9:25:33 PM - ERROR - Failed to Login Invalid username or password (sid: iu6mjQX4_Cb85LELzv1TORxklkqgt6WI)
 9/16/2021, 9:25:40 PM - DEBUG - auth.service - login with username: I.G (sid: iu6mjQX4_Cb85LELzv1TORxklkqgt6WI)
 9/16/2021, 9:56:19 PM - INFO - Server is running on port: 3030 
+11/13/2021, 2:06:44 PM - INFO - Server is running on port: 3030 
+11/13/2021, 2:12:18 PM - INFO - Server is running on port: 3030 
+11/13/2021, 2:13:04 PM - DEBUG - auth.service - login with username: admin2 (sid: y0CMp6EGX6t_DHBvuvgBix0f1QS443mo)
+11/13/2021, 2:13:15 PM - ERROR - cannot clear game from user | Error: couldn't find game:UKYnl in admin2 (sid: y0CMp6EGX6t_DHBvuvgBix0f1QS443mo)
+11/13/2021, 2:13:15 PM - ERROR - cannot clear game from user | Error: couldn't find game:UKYnl in admin (sid: y0CMp6EGX6t_DHBvuvgBix0f1QS443mo)
+11/13/2021, 2:13:15 PM - DEBUG - Deleted successfully (sid: y0CMp6EGX6t_DHBvuvgBix0f1QS443mo)
